@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "27d812bddf51440d",
+        "id": "92bf35eba98f5350",
         "type": "tabs",
         "children": [
           {
-            "id": "fcfa9ac2c3c81f31",
+            "id": "25665e28ef3230c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Productivity Workflow_25.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Productivity Workflow_25"
+              "title": "New tab"
             }
           }
         ]
@@ -166,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcfa9ac2c3c81f31",
+  "active": "3a2345b34a9ab2b2",
   "lastOpenFiles": [
     "Productivity Workflow_25.md",
     "hey.md",
