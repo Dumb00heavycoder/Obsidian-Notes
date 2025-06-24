@@ -11,10 +11,14 @@
             "id": "fcfa9ac2c3c81f31",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Productivity Workflow_25.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Productivity Workflow_25"
             }
           }
         ]
@@ -162,8 +166,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a2345b34a9ab2b2",
+  "active": "fcfa9ac2c3c81f31",
   "lastOpenFiles": [
+    "Productivity Workflow_25.md",
     "hey.md",
     "getting it connected.md",
     "this is my version control sync.md",
