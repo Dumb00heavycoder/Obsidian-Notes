@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "892a4a3225689d12",
+    "type": "split",
+    "children": [
+      {
+        "id": "27d812bddf51440d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcfa9ac2c3c81f31",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9875c8b1cab70da",
+    "type": "split",
+    "children": [
+      {
+        "id": "536e9e7bfbae837c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a2345b34a9ab2b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a235d57df6ac8cf6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d9944a2e0bd8fc6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ff458617b3aa9adc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3e01581b3cdf095",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32273045e7063e15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "adf27aa705a3402d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3cbae583819de2e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "58d00800fe7ed8cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Django Notes/001.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 001"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3a2345b34a9ab2b2",
+  "lastOpenFiles": [
+    "hey.md",
+    "getting it connected.md",
+    "this is my version control sync.md",
+    "lets get started.md",
+    "singing in github.md",
+    "Pandas Notes/001.md",
+    "Numpy Notes/001.md",
+    "Django Notes/001.md",
+    "Django Notes/002.md",
+    "Matplotlib Notes",
+    "Django Notes",
+    "Numpy Notes",
+    "Pandas Notes",
+    "Welcome.md",
+    "Here is another one.md",
+    "Here i am getting started.md"
+  ]
+}
