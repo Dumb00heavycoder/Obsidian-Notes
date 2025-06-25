@@ -1,0 +1,4 @@
+- \t	->	"Hello\tWorld" → Hello World
+- \\	-> "C:\\Path" → C:\Path
+- \\'	-> 'It\'s OK' → It's OK
+- \\"	-> "She said \\"Hi\\"" → She said "Hi"
