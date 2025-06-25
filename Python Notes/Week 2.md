@@ -23,4 +23,20 @@
 - modulo can be used to repeat string letters
 - For better understanding of calling out strings and playing with them understand [[Cesar cipher]]
 
+**If Statement**
+- Syntax :-
+	- `if ( condition):`
+		 `statement`
+	 `else:`
+		`statement`
+Problems to practice
+- [[Even or odd problem]]
+- [[Given number ends with 0 or 5]]
+- [[Find Grades of student based on given marks from 0 to 100]]
 
+**Some-Libraries**
+- [[Math library]]
+- [[Random library]]
+- [[Calendar library]]
+- To use functions of libraries without importing them simply type `from (library) import (function)`
+- You can even change name of the function by writing `as (alias)` in the import line
