@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1429f1712b9d1e97",
+        "id": "6e233c269ad8457d",
         "type": "tabs",
         "children": [
           {
-            "id": "3010a3a51e49ded9",
+            "id": "58f0741b8246746d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/Even or odd problem.md",
+                "file": "Programming concepts and syntax/Virtual environment (venv).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Even or odd problem"
+              "title": "Virtual environment (venv)"
             }
           }
         ]
@@ -166,10 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3010a3a51e49ded9",
+  "active": "58f0741b8246746d",
   "lastOpenFiles": [
-    "Problems/Find Grades of student based on given marks from 0 to 100.md",
+    "Programming concepts and syntax/Virtual environment (venv).md",
     "Problems/Even or odd problem.md",
+    "Untitled.md",
+    "Problems/Find Grades of student based on given marks from 0 to 100.md",
     "Programming concepts and syntax/Reading multi-line in python.md",
     "Special Utils/String Functions list.md",
     "Special Utils/Escape characters.md",
@@ -199,8 +201,6 @@
     "Django Notes",
     "Numpy Notes",
     "Pandas Notes",
-    "Welcome.md",
-    "Here is another one.md",
-    "Here i am getting started.md"
+    "Welcome.md"
   ]
 }
