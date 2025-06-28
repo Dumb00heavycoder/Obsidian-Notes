@@ -4,3 +4,6 @@ You can use venv when you are creating a project which specifically uses a versi
 (Its like a virtual machine)
 
 **How to create and use**
+1)- Decide what package manager to use
+	We'll be using [[UV package manager]] ]package manager
+2)- Use `uv venv "project-name"` to create your virtual environment

@@ -168,6 +168,7 @@
   },
   "active": "58f0741b8246746d",
   "lastOpenFiles": [
+    "Programming concepts and syntax/UV package manager.md",
     "Programming concepts and syntax/Virtual environment (venv).md",
     "Problems/Even or odd problem.md",
     "Untitled.md",
@@ -200,7 +201,6 @@
     "Matplotlib Notes",
     "Django Notes",
     "Numpy Notes",
-    "Pandas Notes",
-    "Welcome.md"
+    "Pandas Notes"
   ]
 }
