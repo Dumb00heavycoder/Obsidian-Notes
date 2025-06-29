@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Notes/Week 3.md",
+                "file": "Problems/Given number ends with 0 or 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 3"
+              "title": "Given number ends with 0 or 5"
             }
           }
         ]
@@ -168,9 +168,13 @@
   },
   "active": "ae0abbffe84fa95b",
   "lastOpenFiles": [
-    "Programming concepts and syntax/Itertools library.md",
     "Python Notes/Week 2.md",
+    "Problems/Even or odd problem.md",
+    "Special Utils/String Functions list.md",
+    "Special Utils/Escape characters.md",
+    "Programming concepts and syntax/Reading multi-line in python.md",
     "Python Notes/Week 3.md",
+    "Programming concepts and syntax/Itertools library.md",
     "Python Notes/Week 4.md",
     "Python Notes/Week 1.md",
     "Pandas Notes/01 Getting Started.md",
@@ -181,11 +185,7 @@
     "Programming concepts and syntax/Math library.md",
     "Programming concepts and syntax/UV package manager.md",
     "Programming concepts and syntax/Virtual environment (venv).md",
-    "Problems/Even or odd problem.md",
     "Problems/Find Grades of student based on given marks from 0 to 100.md",
-    "Programming concepts and syntax/Reading multi-line in python.md",
-    "Special Utils/String Functions list.md",
-    "Special Utils/Escape characters.md",
     "Programming concepts and syntax/Calendar library.md",
     "Programming concepts and syntax/Random library.md",
     "Problems/Convert the following.md",
