@@ -1,5 +1,7 @@
 *Pandas is a data analysis library which is used to analyse data given in csv and other sort of file types. It is also a very fast library because it is built on Numpy.*
 
+==Before getting started you should learn about package installers like [[UV package manager]]and [[Virtual environment (venv)]]==
+
 **Installation**
 1)- `sudo pacman -S python-pandas` (This command is used for arch as I'm using arch btw.)
 2)- `sudo pacman -S jupyterlab` [[Jupyter]]

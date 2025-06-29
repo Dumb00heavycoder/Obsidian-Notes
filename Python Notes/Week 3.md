@@ -1,3 +1,4 @@
+previous knowledge req:- [[Week 1]] and [[Week 2]]
 **While loop**
 "While this condition is not achieved continue doing this following output"
 The above line sums up what while loop is all about. it executes a certain output again and again until the condition given is achieved
