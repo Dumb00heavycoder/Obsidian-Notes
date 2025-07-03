@@ -1,0 +1,1 @@
+It is a modern web api development that uses [[JSON AND JSON OBJECTS]]s to pass data. it ==supports two way communication between client and the server==. The server can send callback messages to connected clients.  

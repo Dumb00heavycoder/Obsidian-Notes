@@ -1,0 +1,1 @@
+XML, or Extensible Markup Language, is ==a markup language designed for encoding documents in a format that is both human-readable and machine-readable==. It's used for storing, transmitting, and reconstructing data. Unlike HTML, which uses predefined tags, XML allows users to define their own tags, making it highly flexible and suitable for various applications.

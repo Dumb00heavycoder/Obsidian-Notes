@@ -1,1 +1,1 @@
-These A
+These APIs use simple object access protocol. Client and server exchange messages using [[XML]]. This is a less flexible API that was more popular in past. 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming concepts and syntax/SOAP APIs.md",
+                "file": "Programming concepts and syntax/APIs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOAP APIs"
+              "title": "APIs"
             }
           }
         ]
@@ -169,11 +169,13 @@
   },
   "active": "ee35363639e9ad7c",
   "lastOpenFiles": [
-    "Programming concepts and syntax/APIs.md",
     "Programming concepts and syntax/REST APIs.md",
+    "Programming concepts and syntax/APIs.md",
     "Programming concepts and syntax/Websockets APIs.md",
+    "Programming concepts and syntax/JSON AND JSON OBJECTS.md",
     "Programming concepts and syntax/RPC APIs.md",
     "Programming concepts and syntax/SOAP APIs.md",
+    "Programming concepts and syntax/XML.md",
     "Programming concepts and syntax/Web APIs.md",
     "Django Rest framework/001 (Getting started).md",
     "Django Notes/001.md",
@@ -194,8 +196,6 @@
     "Problems/Change separator value of dob.md",
     "Problems/reverse the given number in for loop.md",
     "Problems/number of digits in a given number.md",
-    "Problems/Factorial in for loop.md",
-    "Programming concepts and syntax/Printing int and string together (Formatted printing).md",
     "Problems",
     "Programming concepts and syntax",
     "Special Utils",

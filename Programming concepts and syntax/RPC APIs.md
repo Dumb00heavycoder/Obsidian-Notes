@@ -1,0 +1,1 @@
+These APIs are called remote procedure Calls. The client completes a function on the server, and the server ends the output back to the client
