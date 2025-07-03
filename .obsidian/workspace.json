@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django Notes/001.md",
+                "file": "Programming concepts and syntax/APIs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001"
+              "title": "APIs"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ff458617b3aa9adc",
@@ -168,8 +169,12 @@
   },
   "active": "ee35363639e9ad7c",
   "lastOpenFiles": [
-    "Pandas Notes/01 Getting Started.md",
+    "Programming concepts and syntax/Web APIs.md",
+    "Programming concepts and syntax/APIs.md",
+    "Django Rest framework/001 (Getting started).md",
     "Django Notes/001.md",
+    "Django Rest framework",
+    "Pandas Notes/01 Getting Started.md",
     "Python Notes/Week 2.md",
     "Python Notes/Week 1.md",
     "Python Notes/Week 3.md",
@@ -191,9 +196,6 @@
     "Problems/for loop for multiplication table.md",
     "Problems/Add first 10 integer.md",
     "Programming concepts and syntax/Iterable objects.md",
-    "Problems/Palindrome number.md",
-    "Problems/reverse the digits in the given numbers.md",
-    "Problems/Given number ends with 0 or 5.md",
     "Problems",
     "Programming concepts and syntax",
     "Special Utils",
