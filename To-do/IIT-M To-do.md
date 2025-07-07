@@ -6,6 +6,7 @@
 	Complete python week 4 [x]
 	Practice all the problems in problem section []
 	Complete python week 5 []
+	Do grpa of week 5 + graded assignment []
 	Practice oppe set 1 []
 
 ***MATH***

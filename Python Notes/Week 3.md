@@ -7,7 +7,7 @@ The above line sums up what while loop is all about. it executes a certain outpu
 		      `output`
 		      `updation (optional)`
 	
-- problems:- 1)- [[Find factorial of a number]]
+- problems:- 1)- [[Find factorial of a number with while loop]]
 	2)- [[Find number of digits in a given number with for loop]]
 	3)- [[reverse the digits in the given numbers]]
 	4)- [[Palindrome number]]

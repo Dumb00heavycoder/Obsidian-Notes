@@ -22,7 +22,7 @@ previous knowledge required:- [[Week 1]]
 - [[String Functions list]]
 - String letters can be called like array elements 
 - modulo can be used to repeat string letters
-- For better understanding of calling out strings and playing with them understand [[Cesar cipher]]
+- For better understanding of calling out strings and playing with them understand [[Caesar cipher]]
 
 **If Statement**
 - Syntax :-
@@ -32,7 +32,7 @@ previous knowledge required:- [[Week 1]]
 		`statement`
 Problems to practice
 - [[Even or odd problem]]
-- [[Given number ends with 0 or 5]]
+- [[Given number ends with 0 or 5 return true]]
 - [[Find Grades of student based on given marks from 0 to 100]]
 
 **Some-Libraries**

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming concepts and syntax/Cesar cipher.md",
+                "file": "Problems/Find factorial of a number with while loop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cesar cipher"
+              "title": "Find factorial of a number with while loop"
             }
           }
         ]
@@ -168,19 +168,24 @@
   },
   "active": "5621ff067b9a96d3",
   "lastOpenFiles": [
+    "Python Notes/Week 3.md",
+    "Problems/Find factorial of a number with while loop.md",
     "Python Notes/Week 2.md",
+    "Problems/Find Grades of student based on given marks from 0 to 100.md",
+    "Problems/Given number ends with 0 or 5 return true.md",
+    "Problems/Even or odd problem.md",
+    "Python Notes/Week 4.md",
+    "To-do/IIT-M To-do.md",
+    "Programming concepts and syntax/Caesar cipher.md",
     "Special Utils/String Functions list.md",
     "Programming concepts and syntax/Reading multi-line in python.md",
     "Special Utils/Escape characters.md",
     "Python Notes/Week 1.md",
-    "Python Notes/Week 4.md",
     "Python Notes/Week 5.md",
-    "To-do/IIT-M To-do.md",
     "To-do/Japanese to-do.md",
     "To-do/Personal data science skill up.md",
     "Pandas Notes/02 Data frames and series basics.md",
     "Programming concepts and syntax/List methods.md",
-    "Python Notes/Week 3.md",
     "Programming concepts and syntax/Duplicating a list.md",
     "Pasted image 20250707155449.png",
     "Python Notes/Learning from problems.md",
@@ -191,11 +196,6 @@
     "Problems/print lists minimum element.md",
     "Problems/Return middle value of a list.md",
     "Problems/Fruits with N in them.md",
-    "Problems/Mutate a list inside a tuple.md",
-    "Problems/Size of tuple compared to variable.md",
-    "Programming concepts and syntax/Packing and unpacking in tuples.md",
-    "Programming concepts and syntax/Web APIs.md",
-    "Django Rest framework/001 (Getting started).md",
     "Django Rest framework",
     "Problems",
     "Programming concepts and syntax",
