@@ -11,10 +11,14 @@
             "id": "5621ff067b9a96d3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Python Notes/Learning from problems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learning from problems"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ff458617b3aa9adc",
@@ -165,6 +168,12 @@
   },
   "active": "5621ff067b9a96d3",
   "lastOpenFiles": [
+    "Python Notes/Week 1.md",
+    "Python Notes/Learning from problems.md",
+    "Python Notes/Week 5.md",
+    "Python Notes/Week 4.md",
+    "Python Notes/Week 3.md",
+    "Python Notes/Week 2.md",
     "Problems/Mutate a list inside a tuple.md",
     "Problems/Palindrome number check in while loop.md",
     "Problems/print lists maximum number.md",
@@ -178,19 +187,13 @@
     "Problems/Append list 2 in list 1 in a new list.md",
     "Problems/Change end value of a print statement.md",
     "Problems/All prime number less than entered number.md",
-    "Python Notes/Week 3.md",
     "Programming concepts and syntax/Printing int and string together (Formatted printing).md",
     "Problems/Change separator value of dob.md",
     "Problems/number of digits in a given number.md",
-    "Python Notes/Week 4.md",
-    "Python Notes/Week 2.md",
     "To-do/IIT-M To-do.md",
     "Problems/Find factorial of a number with while loop.md",
     "Problems/Find number of digits in a given number with for loop.md",
     "Problems/Find Grades of student based on given marks from 0 to 100.md",
-    "Problems/Given number ends with 0 or 5 return true.md",
-    "Problems/Even or odd problem.md",
-    "Programming concepts and syntax/Caesar cipher.md",
     "Pasted image 20250707155449.png",
     "To-do",
     "Django Rest framework",
