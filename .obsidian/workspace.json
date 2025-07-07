@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ff458617b3aa9adc",
@@ -169,11 +168,16 @@
   },
   "active": "5621ff067b9a96d3",
   "lastOpenFiles": [
+    "Problems/Mutate a list inside a tuple.md",
+    "Python Notes/Week 4.md",
+    "Problems/Size of tuple compared to variable.md",
+    "Programming concepts and syntax/Packing and unpacking in tuples.md",
+    "Programming concepts and syntax/List methods.md",
+    "Programming concepts and syntax/List two variable concept.md",
     "Pasted image 20250707155449.png",
     "Programming concepts and syntax/Web APIs.md",
     "Pandas Notes/02 Data frames and series basics.md",
     "Python Notes/Week 2.md",
-    "Python Notes/Week 4.md",
     "Django Rest framework/001 (Getting started).md",
     "Django Notes/001.md",
     "Python Notes/Week 3.md",
@@ -192,10 +196,6 @@
     "Python Notes/Week 1.md",
     "Programming concepts and syntax/Reading multi-line in python.md",
     "Programming concepts and syntax/UV package manager.md",
-    "Problems/All prime number less than entered number.md",
-    "Problems/Find number of digits in a given number with for loop.md",
-    "Problems/Find Grades of student based on given marks from 0 to 100.md",
-    "Problems/Find factorial of a number.md",
     "Problems",
     "Programming concepts and syntax",
     "Special Utils",

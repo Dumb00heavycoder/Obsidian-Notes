@@ -1,0 +1,7 @@
+- `l.append()`
+- `l.remove()`
+- `l.copy()`
+- `l.insert(x(index),y(value))`
+- `l.pop() (removes element on entry in bracket)`
+- `l.sort() (sorts in ascending order)`
+- `l.reverse()`
