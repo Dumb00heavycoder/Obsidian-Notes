@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/Find factorial of a number with while loop.md",
+                "file": "Python Notes/Week 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Find factorial of a number with while loop"
+              "title": "Week 3"
             }
           }
         ]
@@ -168,13 +168,14 @@
   },
   "active": "5621ff067b9a96d3",
   "lastOpenFiles": [
+    "Problems/Find number of digits in a given number with for loop.md",
     "Python Notes/Week 3.md",
+    "Python Notes/Week 4.md",
     "Problems/Find factorial of a number with while loop.md",
     "Python Notes/Week 2.md",
     "Problems/Find Grades of student based on given marks from 0 to 100.md",
     "Problems/Given number ends with 0 or 5 return true.md",
     "Problems/Even or odd problem.md",
-    "Python Notes/Week 4.md",
     "To-do/IIT-M To-do.md",
     "Programming concepts and syntax/Caesar cipher.md",
     "Special Utils/String Functions list.md",
@@ -195,7 +196,6 @@
     "Problems/print lists maximum number.md",
     "Problems/print lists minimum element.md",
     "Problems/Return middle value of a list.md",
-    "Problems/Fruits with N in them.md",
     "Django Rest framework",
     "Problems",
     "Programming concepts and syntax",
