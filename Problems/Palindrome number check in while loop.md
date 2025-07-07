@@ -6,7 +6,9 @@
     `r = absnum % 10`
     `absnum = absnum // 10`
     `rev = rev * 10 + r`
-`if (num > 0):`
-    `print (rev)`
+    
+`rev = rev if num > 0 else -rev`
+`if num == rev:`
+    `print("palindrom")`
 `else:`
-    `print (rev - 2*rev)`
+    `print("Not palindrom")`
