@@ -15,4 +15,21 @@ a = [10, 20, "GfG", 40, True]
 This sort of formation makes storing different types of data in one list possible. 
 
 ***Sets {}***
-Sets in python are much like the sets you come across in Math
+Sets in python are much like the sets you come across in Math. The sets module provides classes for constructing and manipulating unordered collections of unique elements. Common uses include membership testing, removing duplicates from a sequence, and computing standard math operations on sets such as intersection, union, difference, and symmetric difference.
+	- Sets only take unique entries 
+	- It is slower than list when it comes to creating big range
+	- It is faster than list when it comes to searching through elements to check
+
+***Few Differences between list and sets***
+
+| Sets                                                               | List                                                   |
+| ------------------------------------------------------------------ | ------------------------------------------------------ |
+| Creation is slow                                                   | Creation is fast                                       |
+| Search is really fast                                              | Search is slow                                         |
+| Takes more storage                                                 | Takes less storage                                     |
+| not subscript-able                                                 | subscript-able                                         |
+| use when alot of searching through <br>unique elements is involved | use when alot of elements are involved<br>in the array |
+
+Note:- You can `import sys` and use `sys.getsizeof()` to get the size of your list or set
+
+***Tuples ()***
