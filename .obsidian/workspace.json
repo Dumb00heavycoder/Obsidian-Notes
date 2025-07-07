@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5805f2fdf060ea69",
+        "id": "54fec9e74a8a194d",
         "type": "tabs",
         "children": [
           {
-            "id": "ee35363639e9ad7c",
+            "id": "5621ff067b9a96d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming concepts and syntax/Web APIs.md",
+                "file": "Python Notes/Week 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web APIs"
+              "title": "Week 4"
             }
           }
         ]
@@ -167,10 +167,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee35363639e9ad7c",
+  "active": "5621ff067b9a96d3",
   "lastOpenFiles": [
-    "Django Rest framework/001 (Getting started).md",
+    "Pasted image 20250707155449.png",
+    "Programming concepts and syntax/Web APIs.md",
     "Pandas Notes/02 Data frames and series basics.md",
+    "Python Notes/Week 2.md",
+    "Python Notes/Week 4.md",
+    "Django Rest framework/001 (Getting started).md",
+    "Django Notes/001.md",
+    "Python Notes/Week 3.md",
+    "Problems/number of digits in a given number.md",
+    "Problems/reverse the given number in for loop.md",
+    "Problems/Factorial in for loop.md",
     "Programming concepts and syntax/XML.md",
     "Programming concepts and syntax/APIs.md",
     "Programming concepts and syntax/REST APIs.md",
@@ -178,24 +187,15 @@
     "Programming concepts and syntax/JSON AND JSON OBJECTS.md",
     "Programming concepts and syntax/RPC APIs.md",
     "Programming concepts and syntax/SOAP APIs.md",
-    "Programming concepts and syntax/Web APIs.md",
-    "Django Notes/001.md",
     "Django Rest framework",
     "Pandas Notes/01 Getting Started.md",
-    "Python Notes/Week 2.md",
     "Python Notes/Week 1.md",
-    "Python Notes/Week 3.md",
     "Programming concepts and syntax/Reading multi-line in python.md",
     "Programming concepts and syntax/UV package manager.md",
-    "Python Notes/Week 4.md",
     "Problems/All prime number less than entered number.md",
     "Problems/Find number of digits in a given number with for loop.md",
     "Problems/Find Grades of student based on given marks from 0 to 100.md",
     "Problems/Find factorial of a number.md",
-    "Problems/Even or odd problem.md",
-    "Problems/Change end value of a print statement.md",
-    "Problems/Change separator value of dob.md",
-    "Problems/reverse the given number in for loop.md",
     "Problems",
     "Programming concepts and syntax",
     "Special Utils",

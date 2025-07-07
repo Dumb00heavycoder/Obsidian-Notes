@@ -1,3 +1,4 @@
+previous knowledge required:- [[Week 1]]
 **More on variables, operators and expressions** 
 - Key words can not be used as variable names 
 - variable names are  ==case sensitive== 

@@ -11,6 +11,8 @@ The above line sums up what while loop is all about. it executes a certain outpu
 	2)- [[Find number of digits in a given number with for loop]]
 	3)- [[reverse the digits in the given numbers]]
 	4)- [[Palindrome number]]
+	5)- [[number of digits in a given number]]
+	
 
 **For loops**
 _for_ loops are used when you have a block of code which you want to repeat a **fixed number of times**. The for-loop is always used in combination with an [[Iterable objects]], like a list or a range 
@@ -21,8 +23,8 @@ _for_ loops are used when you have a block of code which you want to repeat a 
 
 - problems: 1)-[[Add first 10 integer]]
 		2)- [[for loop for multiplication table]]
-- 
-
+		3)- [[Factorial in for loop]]
+		4)- [[reverse the given number in for loop]]
 - more on range and forloop:-  you can add a 3rd entry in your range, This third entry will ask the compiler to jump that amount of numbers.  Here's an example for this [[print only odd numbers from 1-11 range]]
 
 **Formatted printing**
