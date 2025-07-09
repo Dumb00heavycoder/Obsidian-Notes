@@ -12,11 +12,13 @@
 
 
 ***MATH***
-
-
-
-
+	`Complete math week 1 [x]`
+	`Complete math week 2 []`
+	`Complete math week 3 []`
 
 
 
 ***STATS***
+	`Complete Stats week 1 []`
+	`Complete Stats week 2 []`
+	`Complete Stats week 3 []`
