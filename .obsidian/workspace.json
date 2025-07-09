@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Notes/Learning from problems.md",
+                "file": "To-do/Japanese to-do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning from problems"
+              "title": "Japanese to-do"
             }
           }
         ]
@@ -168,8 +168,8 @@
   },
   "active": "5621ff067b9a96d3",
   "lastOpenFiles": [
-    "Python Notes/Week 1.md",
     "Python Notes/Learning from problems.md",
+    "Python Notes/Week 1.md",
     "Python Notes/Week 5.md",
     "Python Notes/Week 4.md",
     "Python Notes/Week 3.md",
