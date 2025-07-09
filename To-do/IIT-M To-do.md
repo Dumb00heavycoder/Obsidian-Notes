@@ -14,7 +14,7 @@
 ***MATH***
 	`Complete math week 1 [x]`
 	`Complete math week 2 []`
-	`Complete math week 3 []`
+	`Complete math week 3 []
 
 
 
