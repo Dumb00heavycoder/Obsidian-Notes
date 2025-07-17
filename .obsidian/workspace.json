@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Notes/Week 6.md",
+                "file": "Problems/Find out the maximum and minimum times a word occurs in a paragraph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 6"
+              "title": "Find out the maximum and minimum times a word occurs in a paragraph"
             }
           }
         ]
@@ -169,12 +169,14 @@
   "active": "5621ff067b9a96d3",
   "lastOpenFiles": [
     "Python Notes/Week 5.md",
+    "Python Notes/Week 2.md",
+    "Problems/Find out the maximum and minimum times a word occurs in a paragraph.md",
+    "Programming concepts and syntax/Dictionaries Functions.md",
+    "Python Notes/Week 4.md",
     "Python Notes/Week 6.md",
     "Python Notes/Week 1.md",
     "Pasted image 20250707155449.png",
-    "Python Notes/Week 4.md",
     "Python Notes/Week 3.md",
-    "Python Notes/Week 2.md",
     "To-do/Japanese to-do.md",
     "To-do/IIT-M To-do.md",
     "To-do/Slow steady habit building.md",
@@ -193,8 +195,6 @@
     "Problems/Append list 2 in list 1 in a new list.md",
     "Problems/Change end value of a print statement.md",
     "Problems/All prime number less than entered number.md",
-    "Programming concepts and syntax/Printing int and string together (Formatted printing).md",
-    "Problems/Change separator value of dob.md",
     "To-do",
     "Django Rest framework",
     "Problems",
