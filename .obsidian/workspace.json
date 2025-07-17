@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To-do/IIT-M To-do.md",
+                "file": "Python Notes/Week 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IIT-M To-do"
+              "title": "Week 6"
             }
           }
         ]
@@ -169,15 +169,17 @@
   "active": "5621ff067b9a96d3",
   "lastOpenFiles": [
     "Python Notes/Week 5.md",
-    "To-do/Slow steady habit building.md",
-    "Python Notes/Week5.md",
-    "To-do/IIT-M To-do.md",
-    "To-do/Japanese to-do.md",
-    "Python Notes/Learning from problems.md",
+    "Python Notes/Week 6.md",
     "Python Notes/Week 1.md",
+    "Pasted image 20250707155449.png",
     "Python Notes/Week 4.md",
     "Python Notes/Week 3.md",
     "Python Notes/Week 2.md",
+    "To-do/Japanese to-do.md",
+    "To-do/IIT-M To-do.md",
+    "To-do/Slow steady habit building.md",
+    "Python Notes/Week5.md",
+    "Python Notes/Learning from problems.md",
     "Problems/Mutate a list inside a tuple.md",
     "Problems/Palindrome number check in while loop.md",
     "Problems/print lists maximum number.md",
@@ -193,8 +195,6 @@
     "Problems/All prime number less than entered number.md",
     "Programming concepts and syntax/Printing int and string together (Formatted printing).md",
     "Problems/Change separator value of dob.md",
-    "Problems/number of digits in a given number.md",
-    "Pasted image 20250707155449.png",
     "To-do",
     "Django Rest framework",
     "Problems",
