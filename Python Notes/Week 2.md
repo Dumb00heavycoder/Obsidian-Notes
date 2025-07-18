@@ -11,7 +11,7 @@ previous knowledge required:- [[Week 1]]
 - ==in== operator can be used to check if some characters are present in some variable.
 - chaining operator can be used to chain 2 relational operator in one line
 	 eg:- `10 < x < 20`
-  
+
 **ESCAPE CHARACTER & TYPE OF QUOTES***
 - Escape characters are special characters which can be interpreted in a different way by the language. So to avoid this confusing interpretation we use "/". 
 	- [[Escape characters]]
