@@ -5,10 +5,10 @@
 	Complete python week 3 [x]
 	Complete python week 4 [x]
 	Complete python week 5 [x]
-	Finish python Week 6 []	
-	Practice all the problems in problem section []
 	Do grpa of week 5 + graded assignment [x]
 	Revise week 1 - 5 for quiz 1 [x]
+	Finish python Week 6 []	
+	Practice all the problems in problem section []
 	Practice oppe set 1 []
 
 

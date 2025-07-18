@@ -3,4 +3,3 @@ learn katakana []
 complete introduction []
 create a schedule for japanese []
 Start lesson 1 []
-3
