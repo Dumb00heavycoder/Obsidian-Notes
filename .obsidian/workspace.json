@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GAME DEV/C++/OOP.md",
+                "file": "To-do/IIT-M To-do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OOP"
+              "title": "IIT-M To-do"
             }
           }
         ]
@@ -166,10 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a2345b34a9ab2b2",
+  "active": "5621ff067b9a96d3",
   "lastOpenFiles": [
     "GAME DEV/TO-DO.md",
     "GAME DEV/C++/OOP.md",
+    "GAME DEV/C#",
+    "GAME DEV/C sharp.md",
     "GAME DEV/C++/Basics.md",
     "Python Notes/Week 4.md",
     "GAME DEV/Problem solving",
@@ -195,8 +197,6 @@
     "Programming concepts and syntax/String comparisons.md",
     "To-do/IIT-M To-do.md",
     "Programming concepts and syntax/List methods.md",
-    "Python Notes/Week 6.md",
-    "Programming concepts and syntax/Hashability property.md",
     "Pasted image 20250717212148.png",
     "Pasted image 20250707155449.png",
     "To-do",
@@ -204,7 +204,6 @@
     "Problems",
     "Programming concepts and syntax",
     "Special Utils",
-    "Python Notes",
-    "Matplotlib Notes"
+    "Python Notes"
   ]
 }

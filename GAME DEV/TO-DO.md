@@ -8,3 +8,7 @@ Study pygames []
 
 Solve problems for 30 days []
 
+Study c# basics []
+Study c# oops[]
+
+
