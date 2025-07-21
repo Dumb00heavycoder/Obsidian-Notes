@@ -19,11 +19,11 @@
 	`Complete math week 1 [x]`
 	`Complete math week 2 []`
 	`Complete math week 3 []
-	complete math week 4 []
-	complete math week 5 []
-	complete math week 6 []
-	complete math week 7 []
-	complete math week 8 []
+	`complete math week 4 []`
+	`complete math week 5 []`
+	`complete math week 6 []`
+	`complete math week 7 []`
+	`complete math week 8 []`
 	
 
 
@@ -32,10 +32,10 @@
 	`Complete Stats week 1 []`
 	`Complete Stats week 2 []`
 	`Complete Stats week 3 []`
-	complete stats week 4 []
-	complete stats week 5 []
-	complete stats week 6 []
-	complete stats week 7 []
-	complete stats week 8 []
+	`complete stats week 4 []`
+	`complete stats week 5 []`
+	`complete stats week 6 []`
+	`complete stats week 7 []`
+	`complete stats week 8 []`
 	
 
