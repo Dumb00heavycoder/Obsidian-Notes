@@ -50,6 +50,43 @@ system header files already exist but even users can create their own header fil
 ***Operators***
 Just like python we have 3 types of operators here also.
 	1)- Arithmetic Operators:- +, -,  x, /, %, --a, a--, ++a and a++.
-		a++, ++a, --a
+		a++, ++a, --a and --a are increment and decrement operators respectively. 
+		a++ will first print/use the current value of a and after execution it will increment the value of a. ++a will first increase the value of a and then print it. same for the - one.
+	2)- Comparison Operators:- `==, < , >, !=, <=, >=`
+	3)- Logical operators:- && (and), || (or), !(not).
+		example of ! operator:- 
+				`cout << !(n1= n2) << endl;`
+
+***Some more tips on variables***
+Scope resolution operator can be used to change the scope of a variable. :: is the operator which will allow you to access the global variables. 
+eg:- 
+`#Include <iostream>`
+`using namespace std;`
+`int c = 10`
+`int main () {`
+`cout << ::c << endl;`
+`return 0;`
+`}`
+
+every decimal in cpp is taken as a double to make it float write f after the number.
+`d = 32.4f`
+
+sizeof() function can be used in cpp
 
 
+***Reference variables and typecasting***
+- Reference variables:- giving different names to one data type.  
+	 eg:- float x = 24.5;
+		float & y = x;
+- Type casting:- Changing a variables data type. 
+		eg:- float b = 45.6
+			cout << int(b); 
+
+***Constant, manipulators and operator precedence***
+- Operator precedence also exists in c++ just like it did in python and c.
+
+- Constants:- constant variables are immutable variables. These can not be changed once created. eg:- `const int a = 3;`
+
+- Manipulators:- manipulators are some inbuilt functions which improve the data display. Like endl and [[Setw (c++ manipulator)]]
+
+***
