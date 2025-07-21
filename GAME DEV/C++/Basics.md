@@ -89,4 +89,69 @@ sizeof() function can be used in cpp
 
 - Manipulators:- manipulators are some inbuilt functions which improve the data display. Like endl and [[Setw (c++ manipulator)]]
 
-***
+***Control Structure***
+Control structures are 3 types of structure which give a flow to our program. 
+
+1)- Sequence structure:- A flow on commands in a sequence is simple sequence structure. 
+eg:- print statements
+
+2)-  Selection structure:- A flow of commands with choices is a selection structure. 
+eg:- any if else program
+
+3)- loop structure:- A flow of commands running in loops til a certain condition is satisfied are loop structures.
+eg:- any program running with loops
+
+***If else***
+`syntax:-` 
+`if (condition) {`
+
+`}`
+`else if (condition) {`
+
+`}`
+`else {`
+
+`}`
+
+***switch case***
+switch case switches cases and gives output according to a case. 
+eg:-
+	`int main ()` 
+	`int age;`
+	`cout << "enter your age"<< endl;`
+	`cin >> age;`
+	`switch (age)`
+		`case 18:`
+			`cout << "You are allowed to the party";`
+			`break;`
+		`case 25:`
+			`cout << "You are too old for the party";`
+			`break;`
+		`default:`
+			`cout << "You are not invited to the party"; (wtf am i making)`
+			`break;`
+		
+		
+
+***Loops***
+
+1)- For loops:- 
+	syntax:- 
+	`for(initialisation; condition; updation){`
+		`body`
+	`}`
+	if the condition is always true then a infinite loop can be created
+2)- While loop:-
+	syntax:-
+		`while (condition){`
+			`body`
+		`}`
+3)- Do while loop:-
+	`do {`
+		`body`
+	`} while(condition);`
+
+***Break and continue***
+
+it is what it is
+
