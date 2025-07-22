@@ -27,4 +27,28 @@ here dc is our variable which is of address data type and then we use the items 
 rules of struct:-
 - structure variables can be accessed by anywhere hence it is not strong             on the security part. 
 - You can not use functions inside a struct.
-**2)Unions**:-
+- items of a structure have un-shared memory means each variable has its own located memory. Which allows the multi-use of items
+**2)Unions**:- Unions are just like struct but you can only use one of their variable at one time. 
+eg:- `union money{`
+		`char car;`
+		`int rice;`
+		`float pound;`
+`}`
+
+- Items in union share same memory that's why only one of them can be taken at a time. if taken more than two than garbage value will be returned. 
+- Sharing memory of items allows it to occupy less space and increase runtime of program.
+
+**3) Enumerations**:-  Enums are created like arrays and used inside the main function. 
+eg:- 
+`int main () {`
+	`enum Meal {Breakfast, lunch, dinner}`
+	`Meal M1= lunch;`
+	`cout << Breakfast << endl;`
+	`return 0;`
+`}`
+ps:- i really dont get their use and understand them enough rn but maybe in future. 
+
+***Functions & functions prototypes*** 
+1)- Functions are functions just like python. In c++ functions return values to the compiler depending on the type of their function. you can create void functions too which returns nothing. 
+
+2)- 
