@@ -168,5 +168,22 @@ Collection of items of same type is known as an array. it is stored in contiguou
 ***Pointers and Arrays together***
 You can create pointer of a array too. this pointer stores value of the 0th item in the array. you can access other values too by adding 1, 2, 3, 4, etc to the value of pointer. 
 
+***Pointers Arithmetic***
+In C++, pointer arithmetic means performing arithmetic operations on pointers. It refers to the operations that are valid to perform on pointers. 
+
+1)- Increment and Decrement of a pointer:- Incrementing or decrementing a pointer will make it refer to the address of the next or previous data in the memory. This process differs from incrementing and decrementing numeric data. 
+
+2)- Addition of a constant to a pointer:- We can add integer values to Pointers and the pointer is adjusted based on the size of the data type it points to. For example, if an integer pointer ptr stores the address 1000 and we add the value 5 to the pointer, it will calculate as :- 1000 + (5 * 4(size of an integer)) = 1020 
+
+formula = ==address of a new pointer = address of the old pointer + (i * size of the datatype)==
+
+3)- Subtraction can be done in the same way 
+
+4)- Subtraction of two pointer of same data type:- The Subtraction of two pointers can be done only when both pointers are of the same data type. The subtraction of two pointers gives the number of elements present between the two memory addresses so it is primarily valid if the two pointers belong to the same array.
+
+
+
+
+
 
 
