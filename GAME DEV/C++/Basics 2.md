@@ -58,3 +58,5 @@ ps:- i really dont get their use and understand them enough rn but maybe in futu
 ***Basic knowledge***:-
 - actual parameters:- parameters in main functions which we actually interact with.
 - formal parameters:- parameters of user defined function which we dont interact with.
+
+***Call by Reference & Call by value***
