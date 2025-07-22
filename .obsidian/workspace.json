@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GAME DEV/C++/Basics 2.md",
+                "file": "Programming concepts and syntax/Function prototype example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basics 2"
+              "title": "Function prototype example"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ff458617b3aa9adc",
@@ -169,8 +168,9 @@
   },
   "active": "5621ff067b9a96d3",
   "lastOpenFiles": [
-    "GAME DEV/C++/Basics 1.md",
     "GAME DEV/C++/Basics 2.md",
+    "Programming concepts and syntax/Function prototype example.md",
+    "GAME DEV/C++/Basics 1.md",
     "Pasted image 20250722165556.png",
     "GAME DEV/TO-DO.md",
     "Programming concepts and syntax/Pointer and array's example.md",
