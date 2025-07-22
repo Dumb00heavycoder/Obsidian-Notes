@@ -52,3 +52,9 @@ ps:- i really dont get their use and understand them enough rn but maybe in futu
 1)- Functions are functions just like python. In c++ functions return values to the compiler depending on the type of their function. you can create void functions too which returns nothing. 
 
 2)- Functions prototype is a prototype of our function which works like calling by name or reference use to in C. simply if your function is located below your main function or it is located below a function where it is being used. then you can mention a function prototype in the above function to tell the compiler that the function you encounter right now does exists and as you read on you will find it. so it will look for that function and make your thing work. 
+[[Function prototype example]]
+
+
+***Basic knowledge***:-
+- actual parameters:- parameters in main functions which we actually interact with.
+- formal parameters:- parameters of user defined function which we dont interact with.
