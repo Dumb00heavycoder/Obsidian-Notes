@@ -156,4 +156,17 @@ eg:-
 it is what it is
 
 ***Pointers (headache)***
+Pointers are data types holding addresses of another data type. 
+eg:- 
+`int a = 3;`
+`int * b = &a;`
+[[pointers example]]
+
+***Arrays***
+Collection of items of same type is known as an array. it is stored in contiguous memory locations. indexing is just done like python.
+
+***Pointers and Arrays together***
+You can create pointer of a array too. this pointer stores value of the 0th item in the array. you can access other values too by adding 1, 2, 3, 4, etc to the value of pointer. 
+
+
 
