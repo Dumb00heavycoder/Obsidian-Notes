@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming concepts and syntax/Pointer and array's example.md",
+                "file": "GAME DEV/C++/Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pointer and array's example"
+              "title": "Basics"
             }
           }
         ]
@@ -168,8 +168,8 @@
   },
   "active": "5621ff067b9a96d3",
   "lastOpenFiles": [
-    "GAME DEV/C++/Basics.md",
     "Programming concepts and syntax/Pointer and array's example.md",
+    "GAME DEV/C++/Basics.md",
     "Programming concepts and syntax/pointers example.md",
     "Programming concepts and syntax/Setw (c++ manipulator).md",
     "Python Notes/Week 1.md",
