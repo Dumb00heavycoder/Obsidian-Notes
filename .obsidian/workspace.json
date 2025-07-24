@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/23rd july 2025.md",
+                "file": "Journal/Schedule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23rd july 2025"
+              "title": "Schedule"
             }
           }
         ]
@@ -168,9 +168,11 @@
   },
   "active": "5621ff067b9a96d3",
   "lastOpenFiles": [
+    "Journal/23rd july 2025.md",
+    "Journal/Schedule.md",
+    "Journal/Untitled",
     "GAME DEV/TO-DO.md",
     "GAME DEV/C++/OOP.md",
-    "Journal/23rd july 2025.md",
     "GAME DEV/C++/Basics 2.md",
     "Programming concepts and syntax/Function prototype example.md",
     "GAME DEV/C++/Basics 1.md",
@@ -203,12 +205,10 @@
     "Programming concepts and syntax/Random library.md",
     "Programming concepts and syntax/Math library.md",
     "Problems/Find Grades of student based on given marks from 0 to 100.md",
-    "Problems/Given number ends with 0 or 5 return true.md",
     "Pasted image 20250717212148.png",
     "Pasted image 20250707155449.png",
     "To-do",
     "Django Rest framework",
-    "Problems",
-    "Programming concepts and syntax"
+    "Problems"
   ]
 }
