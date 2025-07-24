@@ -12,7 +12,7 @@
 	Practice oppe set 1 []
 	complete python week 7 []
 	complete python week 8 []
-	x
+	
 
 
 ***MATH***

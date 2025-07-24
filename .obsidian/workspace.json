@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Schedule.md",
+                "file": "Journal/24th july 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Schedule"
+              "title": "24th july 2025"
             }
           }
         ]
@@ -168,11 +168,13 @@
   },
   "active": "5621ff067b9a96d3",
   "lastOpenFiles": [
-    "Journal/23rd july 2025.md",
-    "Journal/Schedule.md",
-    "Journal/Untitled",
     "GAME DEV/TO-DO.md",
+    "Journal/24th july 2025.md",
+    "To-do/IIT-M To-do.md",
     "GAME DEV/C++/OOP.md",
+    "Journal/Schedule.md",
+    "Journal/23rd july 2025.md",
+    "Journal/Untitled",
     "GAME DEV/C++/Basics 2.md",
     "Programming concepts and syntax/Function prototype example.md",
     "GAME DEV/C++/Basics 1.md",
@@ -183,7 +185,6 @@
     "Python Notes/Week 1.md",
     "Python Notes/Week 2.md",
     "Pasted image 20250721181009.png",
-    "To-do/IIT-M To-do.md",
     "Journal/Context and priorities.md",
     "Pasted image 20250721180845.png",
     "Pasted image 20250721180449.png",
@@ -204,7 +205,6 @@
     "Programming concepts and syntax/Calendar library.md",
     "Programming concepts and syntax/Random library.md",
     "Programming concepts and syntax/Math library.md",
-    "Problems/Find Grades of student based on given marks from 0 to 100.md",
     "Pasted image 20250717212148.png",
     "Pasted image 20250707155449.png",
     "To-do",
