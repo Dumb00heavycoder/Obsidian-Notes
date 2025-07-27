@@ -11,10 +11,14 @@
             "id": "5621ff067b9a96d3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Journal/27th july 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "27th july 2025"
             }
           }
         ]
@@ -164,10 +168,10 @@
   },
   "active": "5621ff067b9a96d3",
   "lastOpenFiles": [
+    "Journal/24th july 2025.md",
     "Journal/27th july 2025.md",
     "GAME DEV/Problem solving Learnings/C++ leaernings.md",
     "GAME DEV/C++/Basics 1.md",
-    "Journal/24th july 2025.md",
     "GAME DEV/TO-DO.md",
     "To-do/IIT-M To-do.md",
     "GAME DEV/C++/OOP.md",
