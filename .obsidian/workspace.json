@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/27th july 2025.md",
+                "file": "GAME DEV/Problem solving Learnings/C++ leaernings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "27th july 2025"
+              "title": "C++ leaernings"
             }
           }
         ]
@@ -168,9 +168,12 @@
   },
   "active": "5621ff067b9a96d3",
   "lastOpenFiles": [
-    "Journal/24th july 2025.md",
-    "Journal/27th july 2025.md",
+    "GAME DEV/Math/Manhattan formula.md",
     "GAME DEV/Problem solving Learnings/C++ leaernings.md",
+    "GAME DEV/Math",
+    "GAME DEV/Untitled.md",
+    "Journal/27th july 2025.md",
+    "Journal/24th july 2025.md",
     "GAME DEV/C++/Basics 1.md",
     "GAME DEV/TO-DO.md",
     "To-do/IIT-M To-do.md",
@@ -203,12 +206,9 @@
     "Python Notes/Week 3.md",
     "Problems/number of digits in a given number.md",
     "Problems/reverse the digits in the given numbers.md",
-    "Problems/Find factorial of a number with while loop.md",
-    "Programming concepts and syntax/Calendar library.md",
     "Pasted image 20250717212148.png",
     "Pasted image 20250707155449.png",
     "To-do",
-    "Django Rest framework",
-    "Problems"
+    "Django Rest framework"
   ]
 }
