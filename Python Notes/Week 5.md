@@ -13,3 +13,9 @@ Previous knowledge:- [[Week 1]] [[Week 2]] [[Week 3]] [[Week 4]]
 
 ***COLLECTION SUMMARY***
 ![[Pasted image 20250717212148.png]]
+
+
+***Problem solving with functions***
+It is usually preferred to breakdown big problems in small parts and then solve them in parts. Lets consider the sorting problem. In sorting problem you have to take the most minimum number from a list and then put it in a list x then remove it from the original list and keep doing it until original list is empty. This will result a list x which will have all numbers of original list in ascending order.
+There are two ways to solve this problem
+1)-  [[Sorting list problem (way1)]]
