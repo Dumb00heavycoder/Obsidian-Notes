@@ -12,6 +12,8 @@
 	Practice oppe set 1 []
 	complete python week 7 []
 	complete python week 8 []
+	complete python week 9 []
+	complete python week 10 []
 	
 
 
