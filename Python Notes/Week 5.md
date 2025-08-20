@@ -83,3 +83,12 @@ Here we have used lambda function to replace our classical add function. As you 
 2)- Enumerate:- enumerate function simply takes items of a list and assigns numbers to them and creates a tuple out of it. Easy for indexing through large lists.
 eg :- 
 ![[Pasted image 20250821021813.png]]
+
+3)- Zip:- Zip function just zips two lists or arrays together to create a new list or set or anything you wish to. You can zip anything.
+eg:- ![[Pasted image 20250821022139.png]]
+
+4)- Map:- Map function iterates a user defined function over the arguments needed in the user defined function. It is useful in cases where you wish to iterate a function over entries of 2 lists. 
+eg:- 
+![[Pasted image 20250821023028.png]]
+
+5)- Filter:- Filter function works exactly like map function but it is used in cases where you wish to filter some stuff over a list 
