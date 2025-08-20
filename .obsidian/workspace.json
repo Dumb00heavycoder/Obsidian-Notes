@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Notes/Week 5.md",
+                "file": "Python For data science/Ch 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 5"
+              "title": "Ch 1"
             }
           }
         ]
@@ -169,11 +169,14 @@
   },
   "active": "5621ff067b9a96d3",
   "lastOpenFiles": [
+    "Python For data science/Source and context.md",
+    "Python For data science/Ch 1.md",
+    "Python Notes/Week 5.md",
+    "Python For data science",
     "Pasted image 20250821023028.png",
     "Pasted image 20250821022139.png",
     "Pasted image 20250821021813.png",
     "Problems/Matrix multiplication with numpy.md",
-    "Python Notes/Week 5.md",
     "Problems/Check whether input coordinates form triangle or not.md",
     "Pasted image 20250821012149.png",
     "Problems/Calculate area and parameter of rectangle and circle.md",
@@ -202,18 +205,15 @@
     "GAME DEV/C++/Set library.md",
     "GAME DEV/Math",
     "GAME DEV/Untitled.md",
-    "Journal/27th july 2025.md",
     "Journal/Untitled",
     "Pasted image 20250722165556.png",
     "Pasted image 20250721181009.png",
-    "Pasted image 20250721180845.png",
     "Journal",
     "Journal",
     "GAME DEV/C#",
     "GAME DEV/Problem solving Learnings",
     "GAME DEV/C++",
     "GAME DEV",
-    "To-do",
-    "Django Rest framework"
+    "To-do"
   ]
 }
