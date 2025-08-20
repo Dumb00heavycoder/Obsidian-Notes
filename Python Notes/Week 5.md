@@ -33,3 +33,11 @@ $C[I][J]$ $= A[I][K]  Dot product  B[K][J]$
 You can do matrix multiplication with numpy very easily but here we'll try doing it without any library and purely solving it by logic.
 [[Matrix multiplication (without numpy)]]
 [[Matrix multiplication with numpy]]
+[[Matrix multiplication with Functions]]
+
+***Call by value and scope of a variable***
+![[Pasted image 20250820175256.png]]
+Look at this example carefully and realise that line 8 is not exactly giving the expected output. We expect line 8 to print 10 but it does not. Its because when we give x variable to function1 we are just passing the value of x variable to the x variable in function1. This called call by value where a function calls a variable by its value. The value is taken by function and then used in operations. Value stored in original variable does not change. 
+
+Here we can also discuss scope of a variable. There are two types of variable local and global. globals are declared for the whole program and local and declared for a specific function. We can use global variables in functions too by just mentioning `Global x` in the start of the function. 
+
