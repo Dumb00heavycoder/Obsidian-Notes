@@ -1,4 +1,4 @@
-Previous knowledge:- [[Week 1]] [[Week 2]] [[Week 3]] [[Week 4]]
+	Previous knowledge:- [[Week 1]] [[Week 2]] [[Week 3]] [[Week 4]]
 ***Dictionary*** 
 - Dictionaries are used to store data values in key:value pairs.
 - A dictionary is a collection which is ordered, changeable and do not allow duplicates.
@@ -41,3 +41,7 @@ Look at this example carefully and realise that line 8 is not exactly giving the
 
 Here we can also discuss scope of a variable. There are two types of variable local and global. globals are declared for the whole program and local and declared for a specific function. We can use global variables in functions too by just mentioning `Global x` in the start of the function. 
 
+***TUTORIAL OF FUNCTIONS PROBLEM STATEMENTS***
+[[calculate upper case, lowercase, number of characters and number of words]]
+[[Calculate area and parameter of rectangle and circle]]
+[[Check whether input coordinates form triangle or not]]
