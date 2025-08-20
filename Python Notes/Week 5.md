@@ -24,4 +24,10 @@ There are two ways to solve this problem
 both of the ways will give you the same output but executing 2nd one is more efficient and easy on the brain as you are tackling one problem at a time.
 Hence breaking down problems in parts and tackling one problem with one function is much easy on the brain.
 
+***Matrix multiplication***
+![[Pasted image 20250820171131.png]]
+The image above shows our basic understanding of matrix multiplication where any entry in a product is a dot product of ith row and jth column of A and B. Here we identity some patterns like how when we find $C[3][2]$ the dot product calculation will have constant i for all A and constant j for all B. this is marked with blue and brown dots. These pattern recognition will help us to write down a program for matrix multiplication. 
+$C[I][J]$ is the dot product of ith row of A and jth column of B.
+$C[I][J]$ $= A[I][K]  Dot product  B[K][J]$
 
+You can do matrix multiplication with numpy very easily but here we'll try doing it without any library and purely solving it by logic.
