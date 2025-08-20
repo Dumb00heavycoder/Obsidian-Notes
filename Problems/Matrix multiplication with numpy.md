@@ -1,3 +1,4 @@
+`import numpy`  
 `r1 = [1, 2, 3]`  
 `r2 = [4, 5, 6]`  
 `r3 = [7, 8, 9]`  
@@ -13,11 +14,6 @@
 `B.append(s2)`  
 `B.append(s3)`  
 `C = [[0,0,0] ,[0,0,0] ,[0,0,0]]`  
-  
-`dim = 3`  
-`for i in range(dim):`  
-    `for j in range(dim):`  
-        `for k in range(dim):`  
-            `C[i][j] = C[i][j] + A[i][k] * B[k][j]`  
-  
-`print(C)`
+`X= numpy.asmatrix(A)`  
+`Y = numpy.asmatrix(B)`  
+`print(X*Y)`

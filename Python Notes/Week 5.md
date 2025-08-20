@@ -31,3 +31,5 @@ $C[I][J]$ is the dot product of ith row of A and jth column of B.
 $C[I][J]$ $= A[I][K]  Dot product  B[K][J]$
 
 You can do matrix multiplication with numpy very easily but here we'll try doing it without any library and purely solving it by logic.
+[[Matrix multiplication (without numpy)]]
+[[Matrix multiplication with numpy]]
