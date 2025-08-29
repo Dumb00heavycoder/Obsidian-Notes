@@ -23,5 +23,6 @@ prev knowledge:- [[Week 1]] [[Week 2]] [[Week 3]] [[Week 4]] [[Week 5]] [[Week 6
 	c)- appending:- 
 	Now once you are done making and saving the text file to change it and rewrite it you can use 'a' instead of 'w' while opening the variable. then continue using write function to write new lines in that file
 
-
-	
+2)- Big text file handling:- In this lecture my teacher used tmux vim and ipython so i was very confused in the start but lets get some basics clear. 
+i can write tmux in my terminal to open tmux then if i click Ctrl+b and then i click on % i'll get a horizontal split in my terminal. In my first split i can cd into my directory where i am working and vim into the file which i wish to edit and code in and on my 2nd split i can open ipython and continue my work of file handling. 
+First thing we learn here is about the readline() function which will just read the very first line of the file we have stored in our variable. then it will move on to next line then next and so on. when it reaches the end it will give you '' which is a empty space or a null character.
