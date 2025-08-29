@@ -34,3 +34,12 @@ You can use loops and what not with readline function to creatively read through
 3)- Caesar code:- In this our instructor helped us creating a caesar cipher program which you can apply on any file you wish to 
 ![[Pasted image 20250829191112.png]]
 https://github.com/Dumb00heavycoder/IITM-BS-DATASCIENCE-COURSE-PYTHON-PRACTICE
+
+you can use .read(n) function to read n characters
+
+4)- End portion:- 
+We first study about seek(n) function. It helps you to jump and sit on the number n and from there it starts reading. it goes linearly to the n position so it can take time for big files
+
+Then we study genetic sequence program example:-  In this example sir takes a txt file of human genetic code and he creates different variables for diabetic check or blood issues check. these variables are random and they contain random genetic code then he just checks are these codes present in the genetic sequence or not. he also uses in function alternatively
+
+End
