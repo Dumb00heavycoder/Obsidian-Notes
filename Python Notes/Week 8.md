@@ -28,3 +28,4 @@ i can write tmux in my terminal to open tmux then if i click Ctrl+b and then i c
 First thing we learn here is about the readline() function which will just read the very first line of the file we have stored in our variable. then it will move on to next line then next and so on. when it reaches the end it will give you '' which is a empty space or a null character.
 ![[Pasted image 20250829172438.png]]
 Here is a basic program i created in this work env. Honestly enjoyed it alot. 
+You can use loops and what not with readline function to creatively read through big chunks of data in big big files. 
