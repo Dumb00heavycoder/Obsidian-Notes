@@ -29,3 +29,6 @@ First thing we learn here is about the readline() function which will just read 
 ![[Pasted image 20250829172438.png]]
 Here is a basic program i created in this work env. Honestly enjoyed it alot. 
 You can use loops and what not with readline function to creatively read through big chunks of data in big big files. 
+
+
+3)- 
