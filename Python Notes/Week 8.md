@@ -32,3 +32,4 @@ You can use loops and what not with readline function to creatively read through
 
 
 3)- Caesar code:- In this our instructor helped us creating a caesar cipher program which you can apply on any file you wish to 
+![[Pasted image 20250829191112.png]]
