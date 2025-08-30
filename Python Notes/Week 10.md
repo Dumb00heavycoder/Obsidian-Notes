@@ -1,4 +1,4 @@
-Previous knowledge :- [[Week 1]] [[Week 2]] [[Week 3]] [[Week 4]] [[Week 5]] [[Week 6]] [[Week 8]] [[Week 9]] 
+Previous knowledge :- [[Week 1]] [[Week 2]] [[Week 3]] [[Week 4]] [[Week 5]] [[Week 6 & 7]] [[Week 8]] [[Week 9]] 
 ***Introduction to object oriented programming***
 Object oriented programming is considered as a standard way to program. It considers every real time object (living and non living) as a core living entity. for example me, my laptop, my bottle. these objects have attributes and behaviours which makes them unique.
 these attributes can be stored with variables and we can write functions for these objects for manipulation and calculations. All these variables are different for every object in a class which makes every object unique. Everything in oop revolves around the object and translates real life problems in programming.
@@ -102,3 +102,34 @@ Now lets discuss something interesting. Last code is very big for my small head 
 at last comes hybrid inheritance which is just a mixture of all of these. 
 
 Task:- Create a OOP project. Make different files and use everything you have learned. 
+
+***Exception handling***
+Exception handling is a way to handle exceptions or errors you get in a  better way. lets consider a division program as our example
+
+`a = int(input("Enter the number: "))`
+`b = int(input("Enter the number: "))`
+`c = a/b`
+`print(c)`
+this program will print c which a/b but if b is 0 it will throw an error of ZeroDivisionError. So you can handle that error in this way:-
+`a = int(input("Enter the number: "))`
+`b = int(input("Enter the number: "))`
+`try:`
+	`c = a/b`
+	`print(c)`
+`except ZeroDivisionError:`
+	`print('Invalid input, divisor can not be zero')`
+
+This increases the functionality of your program
+
+You can also use final code block which can be used in the end to do something in the final no matter what exception is.
+
+A much more interesting part of exception handling is raising your own exceptions. for example consider the age verification program.
+`a = int(input())`
+`if a < 18:`
+	`print('You are underage, can not vote')`
+instead of just printing a line you can raise and exception or a warning which will stop the program from further function
+
+`a = int(input())`
+`if a < 18`
+	`raise Exception('You are underage, can not vote')`
+This will throw an error 

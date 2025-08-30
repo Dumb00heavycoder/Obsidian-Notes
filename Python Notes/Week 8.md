@@ -1,4 +1,4 @@
-prev knowledge:- [[Week 1]] [[Week 2]] [[Week 3]] [[Week 4]] [[Week 5]] [[Week 6]] and week 7 was just a bunch of questions.
+prev knowledge:- [[Week 1]] [[Week 2]] [[Week 3]] [[Week 4]] [[Week 5]] [[Week 6 & 7]] and week 7 was just a bunch of questions.
 
 ***Introduction to file handling***
  File handling is all about how to handle files using python. 
