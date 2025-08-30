@@ -1,1 +1,3 @@
 ***Introduction to object oriented programming***
+Object oriented programming is considered as a standard way to program. It considers every real time object (living and non living) as a core living entity. for example me, my laptop, my bottle. these objects have attributes and behaviours which makes them unique.
+these attributes can be stored with variables and we can write functions for these objects for manipulation and calculations. All these variables are different for every object in a class which makes every object unique. Everything in oop revolves around the object and translates real life problems in programming.
