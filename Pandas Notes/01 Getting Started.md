@@ -24,3 +24,8 @@
 - `df.info` = it gives you the rows and lists the columns with their data types
 - `df.head(number of rows)` = to see the first rows
 - `df.tail(numbe of rows)` = to see the last rows
+- `df.count()` = to display the count of entries in each column 
+- `df['rowname/ columnname'].max()` = to find maximum entry of the row or column
+- `df['rowname/ columnname'].min()` = to find minimum entry of the row or column
+- `df['rowname/ columnname'].mean()` = to find mean of the row or column
+- `df['rowname/ columnname'].sum()` = to find sum of the row or column
