@@ -19,6 +19,7 @@
 - df means data frames which we will be exploring in next session
 - by typing df you can print your data frame
 - In data you are given a schema file which contains the questions associated to the columns. to read it u can use `schema_df = pd.read_csv(path to the csv)` and write schema_df to see the schema 
+- In pandas there is no and keyword like python you need to use & 
 **Attributes**
 - `df.shape` = it gives you (rows, columns )
 - `df.info` = it gives you the rows and lists the columns with their data types
@@ -29,3 +30,4 @@
 - `df['rowname/ columnname'].min()` = to find minimum entry of the row or column
 - `df['rowname/ columnname'].mean()` = to find mean of the row or column
 - `df['rowname/ columnname'].sum()` = to find sum of the row or column
+- `df.groupby('attribute').groups`= This forms a dictionary with keys being the attribute given by you and it puts all the data in those keys. attribute can be something like gender or more like a filter. helps in bins for example when you wish to print something 2 or 3 times and you dont wanna use loops for it. 
