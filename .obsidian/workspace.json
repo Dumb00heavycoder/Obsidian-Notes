@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA SCIENCE/Feature engineering/01 EDA.md",
+                "file": "DATA SCIENCE/Feature engineering/05 Scaling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 EDA"
+              "title": "05 Scaling"
             }
           }
         ]
@@ -169,8 +169,13 @@
   },
   "active": "5621ff067b9a96d3",
   "lastOpenFiles": [
-    "DATA SCIENCE/02 Life cycle of data science project.md",
+    "DATA SCIENCE/Feature engineering/04 Treating outliers.md",
+    "DATA SCIENCE/Feature engineering/03 Handling Imbalance dataset.md",
+    "DATA SCIENCE/Feature engineering/02 Handling missing values.md",
     "DATA SCIENCE/Feature engineering/01 EDA.md",
+    "DATA SCIENCE/Feature engineering/00 Feature engineering.md",
+    "DATA SCIENCE/Feature engineering/05 Scaling.md",
+    "DATA SCIENCE/02 Life cycle of data science project.md",
     "DATA SCIENCE/Feature engineering",
     "DATA SCIENCE/Feature engineering.md",
     "DATA SCIENCE/EDA/001 start.md",
@@ -195,11 +200,6 @@
     "DATA SCIENCE/Python Notes/Week 2.md",
     "DATA SCIENCE/Python Notes/Week 3.md",
     "DATA SCIENCE/Python Notes/Week 4.md",
-    "DATA SCIENCE/Python Notes/Week 8.md",
-    "DATA SCIENCE/Python Notes/Week 5.md",
-    "DATA SCIENCE/Python Notes/Week 9.md",
-    "DATA SCIENCE/Python Notes/Week 10.md",
-    "DATA SCIENCE/Python Notes/Week 6 & 7.md",
     "Untitled 1.base",
     "Pasted image 20250830190534.png",
     "Pasted image 20250830190525.png",
