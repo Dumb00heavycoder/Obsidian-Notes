@@ -1,6 +1,3 @@
-*Pandas is a data analysis library which is used to analyse data given in csv and other sort of file types. It is also a very fast library because it is built on Numpy.*
-
-==Before getting started you should learn about package installers like [[UV package manager]]and [[Virtual environment (venv)]]==
 
 **Installation**
 1)- `sudo pacman -S python-pandas` (This command is used for arch as I'm using arch btw.)
@@ -31,3 +28,4 @@
 - `df['rowname/ columnname'].mean()` = to find mean of the row or column
 - `df['rowname/ columnname'].sum()` = to find sum of the row or column
 - `df.groupby('attribute').groups`= This forms a dictionary with keys being the attribute given by you and it puts all the data in those keys. attribute can be something like gender or more like a filter. helps in bins for example when you wish to print something 2 or 3 times and you dont wanna use loops for it. 
+- iloc[n] =  Stands for integer location. It allows you to select rows and columns by their integer positions (e.g., 0 for the first row, 1 for the second, etc.).
