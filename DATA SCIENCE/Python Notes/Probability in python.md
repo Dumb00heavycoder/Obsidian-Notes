@@ -12,9 +12,6 @@ size is shape of output. for example size = 5 will give 5 random numbers
 dtype is data type
 [[Generating random probability test]]
 
-***Monte carlo estimation of probability in python***
+***Monte Carlo estimation of probability in python***
 ![[Pasted image 20250923181832.png]]
-
-
-
-
+[[Find probability with Monte Carlo estimation]]
