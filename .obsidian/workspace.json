@@ -21,12 +21,14 @@
             "id": "4efe3416d7dd7ff5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "DATA SCIENCE/Pandas Notes/02 Data frames and series basics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "02 Data frames and series basics"
             }
           }
         ],
@@ -178,6 +180,9 @@
   },
   "active": "4efe3416d7dd7ff5",
   "lastOpenFiles": [
+    "DATA SCIENCE/Pandas Notes/01 Getting Started.md",
+    "DATA SCIENCE/Pandas Notes/00 Why pandas.md",
+    "DATA SCIENCE/Pandas Notes/02 Data frames and series basics.md",
     "Untitled 2.base",
     "DATA SCIENCE/Python Notes/Week 10.md",
     "DATA SCIENCE/Python Notes/Week 6 & 7.md",
@@ -216,9 +221,6 @@
     "DATA SCIENCE",
     "DATA SCIENCE/EDA",
     "Todo/Passion project todo.md",
-    "DATA SCIENCE/Pandas Notes/02 Data frames and series basics.md",
-    "DATA SCIENCE/Pandas Notes/01 Getting Started.md",
-    "DATA SCIENCE/Pandas Notes/00 Why pandas.md",
     "Todo",
     "Pro.md",
     "Python Notes/Untitled",

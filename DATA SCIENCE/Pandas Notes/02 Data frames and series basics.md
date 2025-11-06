@@ -31,3 +31,15 @@ for sub in L:
 	print('number of male students with marks Between 70 and 85', sub)
 	`print(score[(score['Gender'] == 'M') & (score['sub'].between(70, 85))].shape[0])`	
 
+
+6)- To access a data frame in inside a data frame you can use lists.
+	eg:- `df[['last' , 'email']]`
+	 We are calling this data frame in the same way we call a series instead we are just adding a list which contains the columns. 
+7)- To access a column we can use df.columns but to get rows we use a special function named iloc or loc. 
+	eg:- `df.iloc[0]`
+	this will print row of 0th index in a series format 
+if you wish to access some specific columns rows then you can use the following syntax:-
+	eg:- `df.iloc[[0, 1], 2]`
+	This would access 0th and 1st row of 2nd column and print it as a data frame. here 2nd index is mentioned for the column on 2nd index. we use the index instead of the name. 
+
+In loc you can use the actual name of columns and rows instead of using the index. You can even change the order. for example you can ask for column on 3rd index and then for 2nd index too. 
