@@ -7,3 +7,5 @@ with pandas it can be done easily with the use of .max() function in just one li
 
 
 So in conclusion it just makes data manipulation much much easier.
+
+Basics → Indexing → Cleaning → GroupBy → Merge → Strings → Time → Reshape
