@@ -20,6 +20,7 @@
 **Attributes**
 - `df.shape` = it gives you (rows, columns )
 - `df.info` = it gives you the rows and lists the columns with their data types
+- `df['column'].nunique()` = gives the unique or discrete values in that column
 - `df.head(number of rows)` = to see the first rows
 - `df.tail(numbe of rows)` = to see the last rows
 - `df.count()` = to display the count of entries in each column 
@@ -29,3 +30,6 @@
 - `df['rowname/ columnname'].sum()` = to find sum of the row or column
 - `df.groupby('attribute').groups`= This forms a dictionary with keys being the attribute given by you and it puts all the data in those keys. attribute can be something like gender or more like a filter. helps in bins for example when you wish to print something 2 or 3 times and you dont wanna use loops for it. 
 - iloc[n] =  Stands for integer location. It allows you to select rows and columns by their integer positions (e.g., 0 for the first row, 1 for the second, etc.).
+- `idxmax()`=  returns the index (label) of the maximum value.
+- `.get(index, return)` = Looks for the index and if not found will return whatever is in return section. eg = `.get('hindi', 0)`, this will look for hindi in the index and if not found it will return 0. 
+- 
