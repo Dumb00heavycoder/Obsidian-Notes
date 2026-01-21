@@ -32,4 +32,3 @@
 - iloc[n] =  Stands for integer location. It allows you to select rows and columns by their integer positions (e.g., 0 for the first row, 1 for the second, etc.).
 - `idxmax()`=  returns the index (label) of the maximum value.
 - `.get(index, return)` = Looks for the index and if not found will return whatever is in return section. eg = `.get('hindi', 0)`, this will look for hindi in the index and if not found it will return 0. 
-- 
