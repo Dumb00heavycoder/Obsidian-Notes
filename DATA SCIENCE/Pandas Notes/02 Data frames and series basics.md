@@ -2,7 +2,11 @@
 
 Source:- IITM BS DATA SCIENCE python course week 11 3rd lecture
 
-Data frame is a 2 dimensional data structure used to store tabular data and the columns in this data frame are known as series. 
+Data frame is a 2 dimensional data structure used to store tabular data and the rows of a single column in this data frame are known as series. 
+Series:- 
+![[Pasted image 20260122220754.png]]
+Dataframe:- 
+![[Pasted image 20260122220819.png]]
 Here i'll be writing some of the examples i did in my class which are complex and helpful.
  here are these examples:- 
  
@@ -23,23 +27,26 @@ Now you can add more layers to it for example after total you write .max() to ge
 eg:- `print(score[score['Physics'].between(70, 85)].shape[0])`
 
 You can even ==use &== operator to add more filters. For example lets now try printing number of  male students who got marks between 70 and 85 in physics. `print(score[(score['Gender'] == 'M') & (score['Physics'].between(70, 85))].shape[0])`
-you can try using or too in your project.
+you can try using or in your project.
 
-5)- Using for loops:- Now in last example try printing number of male students who's marks are between 70 and 85 in physics math and chemistry. now you can copy paste it but the right way would be to make a for loop. You can create a list L containing 3 subjects Math, Physics, Chemistry. Then iterate through this list and put the variable in place of the subject you wrote in last example. 
-L = ['Math', 'Chemistry', 'Physics']
-for sub in L:
-	print('number of male students with marks Between 70 and 85', sub)
+5)- Using for loops:- Now in last example try printing number of male students whose marks are between 70 and 85 in physics math and chemistry. now you can copy paste it but the right way would be to make a for loop. You can create a list L containing 3 subjects Math, Physics, Chemistry. Then iterate through this list and put the variable in place of the subject you wrote in last example. 
+`L = ['Math', 'Chemistry', 'Physics']`
+`for sub in L:`
+	`print('number of male students with marks Between 70 and 85', sub)`
 	`print(score[(score['Gender'] == 'M') & (score['sub'].between(70, 85))].shape[0])`	
 
 
-6)- To access a data frame in inside a data frame you can use lists.
+6)- To access a data frame inside a data frame you can use lists.
 	eg:- `df[['last' , 'email']]`
-	 We are calling this data frame in the same way we call a series instead we are just adding a list which contains the columns. 
-7)- To access a column we can use df.columns but to get rows we use a special function named iloc or loc. 
+	 We are calling this data frame in the same way we call a series instead we are just adding a list which contains the columns. Now this will no longer be a series as it will give us multiple columns. 
+7)- To access a column we can use `df.columns` but to get rows we use a special function named `iloc`(integer location) or `loc`. 
 	eg:- `df.iloc[0]`
 	this will print row of 0th index in a series format 
 if you wish to access some specific columns rows then you can use the following syntax:-
 	eg:- `df.iloc[[0, 1], 2]`
 	This would access 0th and 1st row of 2nd column and print it as a data frame. here 2nd index is mentioned for the column on 2nd index. we use the index instead of the name. 
-
+	![[Pasted image 20260122221509.png]]
+	![[Pasted image 20260122221549.png]]
 In loc you can use the actual name of columns and rows instead of using the index. You can even change the order. for example you can ask for column on 3rd index and then for 2nd index too. 
+
+
