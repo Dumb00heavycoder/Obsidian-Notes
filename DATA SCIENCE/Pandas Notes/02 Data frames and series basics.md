@@ -1,4 +1,4 @@
-`previous knowledge required:- [[01 Getting Started]]
+previous knowledge required:- [[00 Why pandas]] and [[01 Getting Started]]
 
 Source:- IITM BS DATA SCIENCE python course week 11 3rd lecture
 
@@ -49,4 +49,5 @@ if you wish to access some specific columns rows then you can use the following 
 	![[Pasted image 20260122221549.png]]
 In loc you can use the actual name of columns and rows instead of using the index. You can even change the order. for example you can ask for column on 3rd index and then for 2nd index too. 
 
-
+Slicing to is possible in loc, instead of writing `df.loc[[0,1,2,3,4], 'email']` you can just write `df.loc[0:4, 'email']`. This can be done with columns too. eg:- `df.loc[0:4, 'name' : 'email']`
+![[Pasted image 20260122223404.png]]

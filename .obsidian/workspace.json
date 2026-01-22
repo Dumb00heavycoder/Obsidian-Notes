@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA SCIENCE/Pandas Notes/02 Data frames and series basics.md",
+                "file": "DATA SCIENCE/Pandas Notes/03 Indexes- How to set, use and reset indexes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Data frames and series basics"
+              "title": "03 Indexes- How to set, use and reset indexes"
             }
           }
         ],
@@ -186,12 +186,16 @@
   },
   "active": "f25806de5958606c",
   "lastOpenFiles": [
+    "Pasted image 20260122224725.png",
+    "Programming concepts and syntax/APIs.md",
+    "DATA SCIENCE/Pandas Notes/02 Data frames and series basics.md",
+    "DATA SCIENCE/Pandas Notes/01 Getting Started.md",
+    "DATA SCIENCE/Pandas Notes/03 Indexes- How to set, use and reset indexes.md",
+    "Pasted image 20260122223404.png",
     "Pasted image 20260122221549.png",
     "Pasted image 20260122221509.png",
     "Pasted image 20260122220819.png",
     "Pasted image 20260122220754.png",
-    "DATA SCIENCE/Pandas Notes/01 Getting Started.md",
-    "DATA SCIENCE/Pandas Notes/02 Data frames and series basics.md",
     "DATA SCIENCE/Pandas Notes/00 Why pandas.md",
     "Untitled 6.base",
     "Untitled 5.base",
@@ -223,14 +227,10 @@
     "DATA SCIENCE/Python Notes/Week 6 & 7.md",
     "DATA SCIENCE/Python Notes/Week 3.md",
     "DATA SCIENCE/Python Notes/Week 1.md",
-    "DATA SCIENCE/Python Notes/Probability in python.md",
-    "DATA SCIENCE/Python Notes/Learning from problems.md",
     "Pictures used/Pasted image 20250824210109.png",
     "Pictures used/Pasted image 20250821023028.png",
     "Pictures used/Pasted image 20250707155449.png",
     "Pictures used/Pasted image 20250721180449.png",
-    "Pasted image 20250721180845.png",
-    "Pasted image 20250721181009.png",
     "DATA SCIENCE/Feature engineering"
   ]
 }

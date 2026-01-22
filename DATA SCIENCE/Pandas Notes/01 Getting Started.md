@@ -1,4 +1,4 @@
-
+previous knowledge :- [[00 Why pandas]]
 **Installation**
 1)- `sudo pacman -S python-pandas` (This command is used for arch as I'm using arch btw.)
 2)- `sudo pacman -S jupyterlab` [[Jupyter]]
@@ -32,3 +32,4 @@
 - iloc[n] =  Stands for integer location. It allows you to select rows and columns by their integer positions (e.g., 0 for the first row, 1 for the second, etc.).
 - `idxmax()`=  returns the index (label) of the maximum value.
 - `.get(index, return)` = Looks for the index and if not found will return whatever is in return section. eg = `.get('hindi', 0)`, this will look for hindi in the index and if not found it will return 0. 
+- `.value_counts()` = Gives count of every value in the column. for example how many times there is yes or no in column
