@@ -1,5 +1,4 @@
 Previous knowledge req:- [[Basics 1]]
-![[Pasted image 20250722165556.png]]
 ***Structures, Unions and Enumerations***
 Structures, Unions and Enums are user defined data types in c++.
 **1)- Structures**:- Struct is an aggregate of elements of arbitrary types. 

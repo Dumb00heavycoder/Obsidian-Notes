@@ -1,7 +1,6 @@
 Context:- Do not refer these notes if you are a beginner.  I already know c++ since June 2024 so this note session is just a revisit and a virtual documentation for me to refer in future. 
 Source:- The c++ programming language by Bjarne Stroustrup
 Lets begin
-![[Pasted image 20250721181009.png]]
 
 C++ is a low level language created by Bjarne Storstrup. It works very close to the hardware and is great for memory management. Mostly used in competitive programming, video game development and lower end programming. 
 
