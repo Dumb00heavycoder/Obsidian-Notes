@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Shunting yard algorithm.md",
+                "file": "DSA/Reverse Polish Notation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shunting yard algorithm"
+              "title": "Reverse Polish Notation"
             }
           }
         ],
@@ -198,11 +198,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a2345b34a9ab2b2",
+  "active": "9a523951abfcc523",
   "lastOpenFiles": [
+    "DSA/Shunting Yard Algorithm.md",
+    "DSA/Reverse Polish Notation.md",
+    "DSA/Polish Notation.md",
+    "Pictures used/Pasted image 20260316025619.png",
     "Pictures used/Pasted image 20260316024410.png",
     "C++/CMake.md",
-    "DSA/Shunting yard algorithm.md",
     "DSA",
     "DATA SCIENCE/Pandas Notes/00 Why pandas.md",
     "C++/Set library.md",
@@ -233,7 +236,6 @@
     "DATA SCIENCE/Feature engineering/01 EDA.md",
     "DATA SCIENCE/Feature engineering/00 Feature engineering.md",
     "DATA SCIENCE/Django Notes/001.md",
-    "DATA SCIENCE/Pandas Notes/03 Indexes- How to set, use and reset indexes.md",
     "Pictures used/Pasted image 20260122221509.png",
     "Pictures used/Pasted image 20260122220819.png",
     "Pictures used/Pasted image 20260122220754.png",
@@ -243,8 +245,6 @@
     "Untitled 7.base",
     "Untitled 4.base",
     "Untitled 2.base",
-    "Untitled 1.base",
-    "Pictures used/Pasted image 20250824210109.png",
-    "Pictures used/Pasted image 20250821023028.png"
+    "Untitled 1.base"
   ]
 }
