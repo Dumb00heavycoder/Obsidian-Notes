@@ -16,6 +16,9 @@ Another example:-
 You can imagine functioning of RPN as a slide rule (an analogue computer used for calculations ). Rpn computers were always faster because there is no use of parenthesises. which requires few key strokes for calculations. 
 [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra "Edsger W. Dijkstra") invented the [[Shunting Yard Algorithm]]to convert infix expressions to postfix expressions (reverse Polish notation), so named because its operation resembles that of a railroad shunting yard
 
-
+Famous software calculators based on rpn:-
+Atari calculator 
+Mac OS X Calculator 
+Unix system Calculator 
 
 

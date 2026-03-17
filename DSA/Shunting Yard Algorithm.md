@@ -17,6 +17,15 @@ In our classical math we use infix notation where operator sits between the two 
 
 
 
-***Structure***
-![[Pasted image 20260316025619.png]]
+
+
+
+
+![[Pasted image 20260317210102.png]]
+
+
+
+
+
+
 
