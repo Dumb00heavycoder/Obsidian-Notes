@@ -16,10 +16,10 @@ previous knowledge :- [[00 Why pandas]]
 - df means data frames which we will be exploring in next session
 - by typing df you can print your data frame
 - In data you are given a schema file which contains the questions associated to the columns. to read it u can use `schema_df = pd.read_csv(path to the csv)` and write schema_df to see the schema 
-- In pandas there is no and keyword like python you need to use & 
+- In pandas there is no 'and' keyword like python you need to use & 
 **Attributes**
-- `df.shape` = it gives you (rows, columns )
-- `df.info` = it gives you the rows and lists the columns with their data types
+- `df.shape = it gives you (rows, columns )
+- `df.info()` = it gives you the rows and lists the columns with their data types
 - `df['column'].nunique()` = gives the unique or discrete values in that column
 - `df.head(number of rows)` = to see the first rows
 - `df.tail(numbe of rows)` = to see the last rows
