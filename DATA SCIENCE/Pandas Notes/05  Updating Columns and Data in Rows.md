@@ -16,3 +16,12 @@ previous knowledge:- [[00 Why pandas]], [[01 Getting Started]], [[02 Data frames
 	  `df.remane(columns = {'first_name' : 'first', 'second_name' : 'second',}, inplace = True)`
 
 2)- Updating the data in rows 
+- First we can use the same list method we used to change column name, We can use Loc and create a list on that row while updating the entries
+	 `df.loc[2] = [ 'Dhruv', 'Rajput', 'dhruvrajput@gmail.com']`
+	 This will only work for small datasets as you will have to manually type every entry of the row to update the row. 
+- When we only wish to change specific values then we can use column names in loc to access those columns and change them.
+	 `df.loc[2, ['last', 'email']] = ['Rajput', 'dhruvrajput@gmail.com']`
+	 With this you can access multiple rows and their multiple columns and change their entries.
+- When changing a single value you can just type the value in the variable as there will be no need of having a list
+	 `df.loc[2, 'last'] = 'Rajput'`
+- 

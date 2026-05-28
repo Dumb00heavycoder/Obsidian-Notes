@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA SCIENCE/Pandas Notes/05  Updating Rows, Columns and Data in Dataset.md",
+                "file": "DATA SCIENCE/Pandas Notes/05  Updating Columns and Data in Rows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05  Updating Rows, Columns and Data in Dataset"
+              "title": "05  Updating Columns and Data in Rows"
             }
           }
         ],
@@ -187,7 +187,7 @@
   "active": "1bdad1f4c80b5407",
   "lastOpenFiles": [
     "DATA SCIENCE/Pandas Notes/04 Filtering - Using Conditionals to filer rows and columns.md",
-    "DATA SCIENCE/Pandas Notes/05  Updating Rows, Columns and Data in Dataset.md",
+    "DATA SCIENCE/Pandas Notes/05  Updating Columns and Data in Rows.md",
     "DATA SCIENCE/Pandas Notes/03 Indexes- How to set, use and reset indexes.md",
     "Untitled 1.base",
     "Untitled 1.canvas",
