@@ -1,13 +1,14 @@
 1)- We can create filter variables which creates filters. These filters are applied on our data frame to get some specific results.
 eg:- `filt = df['Lastname'] == 'Chaudhary'`
-`df[filt] or df.iloc[filt] or df[df['Lastname'] == 'Chaudhary']`
+`df[filt] or df.iloc[filt] or df[df['Lastname'] == 'Chaudhary']
+if you print filt then u will get a series of atrue or false. You must write `df.loc[filt]` to get a filtered version of the dataframe  . To get opposite of the filt u can apply ~ before filt to get its opposite. 
 
 2)- Printing details of a particular entry:- 
 use the following syntax `print(dataframe[ dataframe['column'] == 'name of the entry'])`. It can be used in scores data set where you wish to find out all the scores of a particular kid. This line inside the `data frame[] is` gonna work like a boolean statement. it will go through the rows of the column you mentioned and generate true and false statement then it is gonna return whatever says true. You can filter students score, gender wise data and what not
 
 
 3)- Applying 2 filters:- Lets consider the score data set and for example now you wish to see total marks of all the male and female students.we can breakdown this problem in 2 parts. First we filter gender and then we filter total marks. With the help of previous example we can write a small code `print(score[score['Gender'] == 'M'])` to apply the gender filter. now to add total filter we can just add `['Total']` after the gender filter line.
-hence we get = `print(score[score['Gender'] == 'M'] ['Total'])`
+hence we get = ==`print(score[score['Gender'] == 'M'] ['Total'])`==
 General syntax = `print(df[df['column'] == 'name of the entry']['another column]')`
 Now you can add more layers to it for example after total you write .max() to get highest total score by a male student and many more filters. 
 
@@ -31,3 +32,9 @@ eg:-
 `df.loc[high_salary, ['Country, 'Language', Salary']]`
 
 This will print people with high salary along with their country and language. 
+
+7)- Using string methods:- There are many string methods in pandas but here we'll study about the most important string method used in filtering.  str.contains is one of the most important string method in filtering, It is used to filter out columns with contain certain words which we are looking for.
+For an example lets take a data set of employees of company which contain a column named LanguageWorkedWith where the programming languages used by employees are mentioned. This column will obvsly contain more than one programming language which might make filtering complex. So we use string.contains method to filter out people using python.
+Here's how we'll do it
+`filt = df['LanguageWorkedWith].str.contains('Python', na = False)`
+We use na = False to remove the NA values in that column.
