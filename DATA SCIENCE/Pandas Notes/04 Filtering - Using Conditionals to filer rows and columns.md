@@ -1,3 +1,4 @@
+Previous knowledge:- [[00 Why pandas]], [[01 Getting Started]], [[02 Data frames and series basics]],[[03 Indexes- How to set, use and reset indexes]]
 1)- We can create filter variables which creates filters. These filters are applied on our data frame to get some specific results.
 eg:- `filt = df['Lastname'] == 'Chaudhary'`
 `df[filt] or df.iloc[filt] or df[df['Lastname'] == 'Chaudhary']
