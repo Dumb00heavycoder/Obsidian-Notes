@@ -28,4 +28,6 @@ previous knowledge:- [[00 Why pandas]], [[01 Getting Started]], [[02 Data frames
 - You can change values in filters also in such way:-
 	 `filt = (df[email] == "johndoe@gmail.com" )`
 	 `df.loc [filt , 'last'] = "Smith"`
-- 
+- To change multiple rows case you can do this:- 
+     `df['email'] = df['email'].str.lower()` 
+     `df['email'] = df['email'].str.upper()`
