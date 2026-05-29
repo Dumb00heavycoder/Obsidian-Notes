@@ -24,4 +24,8 @@ previous knowledge:- [[00 Why pandas]], [[01 Getting Started]], [[02 Data frames
 	 With this you can access multiple rows and their multiple columns and change their entries.
 - When changing a single value you can just type the value in the variable as there will be no need of having a list
 	 `df.loc[2, 'last'] = 'Rajput'`
+- Whenever setting values just use iloc or loc otherwise you will run into issues or warnings. 
+- You can change values in filters also in such way:-
+	 `filt = (df[email] == "johndoe@gmail.com" )`
+	 `df.loc [filt , 'last'] = "Smith"`
 - 
