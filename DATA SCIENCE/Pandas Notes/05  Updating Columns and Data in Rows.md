@@ -55,4 +55,9 @@ previous knowledge:- [[00 Why pandas]], [[01 Getting Started]], [[02 Data frames
 - Applymap:- In apply section we saw how if we use apply on a dataframe it'll apply function the series and not the entries in the columns. Applymap is used on a dataframe to apply function on every entry in the dataframe. this is helpful when u wish to update entries with the help of a function.  
 	 eg:- `df.applymap(len)`
 		This will return a data frame with length of every element in df.
-- 
+- Map:- Map is used on series to change the values with a dictionary. This will replace values according to the dictionary that yo mention
+	 `df['first'].map({'dhruv' : 'shreyas', 'jane': 'mary' })`
+	This will replace the values you mentioned in dictionary but if you did not mentioned a value in dictionary which is present in df. For example it might be a third value. That value will then go to NaN.  
+- Replace:- Now if you want to use the map method but only change few values without getting other values to NaN. Then you should use replace method.  
+	 `df['first'].replace({'dhruv' : 'shreyas', 'jane' : 'mary'})`
+-  
