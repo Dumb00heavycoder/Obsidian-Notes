@@ -60,4 +60,8 @@ previous knowledge:- [[00 Why pandas]], [[01 Getting Started]], [[02 Data frames
 	This will replace the values you mentioned in dictionary but if you did not mentioned a value in dictionary which is present in df. For example it might be a third value. That value will then go to NaN.  
 - Replace:- Now if you want to use the map method but only change few values without getting other values to NaN. Then you should use replace method.  
 	 `df['first'].replace({'dhruv' : 'shreyas', 'jane' : 'mary'})`
--  
+	
+	 
+For example now u have a column which just has yes and no values. So u decide to change every yes to true and every no to false. So u can use map in this way:- 
+	 `df['Agree'].map({'YES' : True, 'NO': False })`
+	 This will change every value no matter how many entries there are
