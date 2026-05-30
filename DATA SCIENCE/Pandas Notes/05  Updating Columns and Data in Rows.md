@@ -52,4 +52,7 @@ previous knowledge:- [[00 Why pandas]], [[01 Getting Started]], [[02 Data frames
 		`df.apply(lambda x: x.min())`
 	So in conclusion applying apply to a series will apply the funciton to every element in that series and applying apply to a dataframe will apply the function to the series or columns.  
 
-- Apply map
+- Applymap:- In apply section we saw how if we use apply on a dataframe it'll apply function the series and not the entries in the columns. Applymap is used on a dataframe to apply function on every entry in the dataframe. this is helpful when u wish to update entries with the help of a function.  
+	 eg:- `df.applymap(len)`
+		This will return a data frame with length of every element in df.
+- 
