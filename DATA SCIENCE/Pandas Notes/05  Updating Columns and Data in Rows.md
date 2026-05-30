@@ -31,3 +31,25 @@ previous knowledge:- [[00 Why pandas]], [[01 Getting Started]], [[02 Data frames
 - To change multiple rows case you can do this:- 
      `df['email'] = df['email'].str.lower()` 
      `df['email'] = df['email'].str.upper()`
+
+3)- 4 methods of changing data:-
+- Apply is a method which allows you to apply a function over a column. For example you wish to the length of every element in a column. You can do it in this way for series objects:-
+	  `df['email'].apply(len)`
+	  This will give length of every entry in email column.
+	This can be used to update every entry in a column by making your own function and applying it on the column. 
+	eg:- 
+		`def update_case(email):`
+			`return email.upper()`
+		`df['email'].apply(update_case)`
+	You can also straight up use the lambda function in this way:-
+		`df['email'] = df['email'].apply(lamda x: x.lower())`
+	Now lets focus on how apply will work with data frames
+	If you try `df.apply(len)` then you would expect to get length of entries in every column but instead it would end up giving you the amount of entries in every column. it'll give u the result of `len(df['email']`  
+	You can also use a minimum function like this:- 
+		`df.apply([pd.Series.min])`
+		it'd give u the minimum values of every column
+		U can get the same result with this lambda function:-
+		`df.apply(lambda x: x.min())`
+	So in conclusion applying apply to a series will apply the funciton to every element in that series and applying apply to a dataframe will apply the function to the series or columns.  
+
+- Apply map
