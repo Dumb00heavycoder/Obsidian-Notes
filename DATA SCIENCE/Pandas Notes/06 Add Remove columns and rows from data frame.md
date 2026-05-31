@@ -14,3 +14,8 @@ previous knowledge:- [[00 Why pandas]], [[01 Getting Started]],[[02 Data frames 
 5)- appending one dataframe on another:- for example you have df which has email, fullname, first and last column and you also have df2 which has first, last and email column. U can append df2 in df in such a way:-
 	df.append(df2, ignore_index =True)
 	as there is no fullname column in df2. Full name values of df2 will be NaN after appending.
+6)- Removing rows:- 
+	`df.drop(index = 4)`
+	You can also remove rows with conditionals in this way:-
+	`df.drop(index = df[df['last'] == 'chaudhary'].index)`
+	
