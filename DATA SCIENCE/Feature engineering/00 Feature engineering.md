@@ -1,1 +1,0 @@
-Feature engineering is the very first step/phase of a data science project where we observe, handle and clean our data. This step helps us to make our raw data completely ready for our machine learning model. 
