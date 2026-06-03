@@ -12,4 +12,6 @@ This will sort the data frame according to the column
 3)- Sorting ascending with one column and descending with second column:- 
 	`df.sort_values(by = ['Column name 1', 'Column name 2', ascending = ['False', 'True']])`
 	You can add comma and write inplace = True to make it permanent. 
-4)- 
+4)- Sorting a series :-
+	`df['Column name'].sort_values()`
+	
