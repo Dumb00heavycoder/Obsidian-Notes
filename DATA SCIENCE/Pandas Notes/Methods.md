@@ -5,3 +5,5 @@
 5)- Describe = This method will describe any dataset. it'll give count, mean, max, standard dev, 25th quartile, 50th quartile, 75th quartle and minimum of features which numerical datatypes.
 6)- .duplicated() = Finds duplicates in data frame
 7)- .isna() = finds na values in data frames
+8)- nlargest() = `df['Column name'].nlargest(10`)  Will give u a series of the column name it its 10 largest entries. You can also simply do `df.nlargest (10, 'Column name')` to get the completed data frame arranged according to the column mentioned in n largest. 
+9)- nsmallest() = Works exactly like nlargest() but gives smallest values
