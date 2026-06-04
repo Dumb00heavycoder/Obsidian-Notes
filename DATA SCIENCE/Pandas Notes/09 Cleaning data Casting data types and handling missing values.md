@@ -7,4 +7,5 @@ previous knowledge [[00 Why pandas]],[[01 Getting Started]],[[02 Data frames and
 - `dropna(axis='columns, how = 'all')` = Drops columns which have every value missin
  - `dropna(axis='column', how= 'any')`= would drop columns with 1 or more Na values. (This might drop every column in ur data frame if you have even one index with all Nan values) 
 If only some columns in a dataframe concern you and u want to drop the indexes which has those specific columns missing, You can do that in this specific way:-
-df.dropna(axis = 'index')
+`df.dropna(axis = 'index', how = 'any', subset = {'Last', 'Email})`
+This would drop the rows that have last name and email missing 
