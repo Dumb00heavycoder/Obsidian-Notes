@@ -27,3 +27,5 @@ Create a Na_value variable and put it in ur load argument in this way:-
 You can start with `df.dtypes` attribute to get data types of all features. 
 If you have a object column which you wish to turn into an integer column then u can simply use this code :- `df['column'] = df[column].astype(int)`
 This would only work if there is no NaN values in the column.  If Na values exist then u must replace them  or cast the column to float. 
+Getting an error while casting would majorly mean that many entries in that data type can not be converted. So its important u use the unique() method and deal with these unique entries.
+

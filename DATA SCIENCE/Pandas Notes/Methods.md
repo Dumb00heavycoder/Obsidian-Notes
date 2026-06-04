@@ -9,3 +9,4 @@
 9)- nsmallest() = Works exactly like nlargest() but gives smallest values
 10)- value_counts() = gives count of values present in the column. For example if there is a yes and no column so it'll tell how many yes and no are present in the column. eg:- `df['Hobbyist'].value_count()`. You can add normalize = True in the () to get the percentage instead of the number
 11)- df.isna() = Gives you mask of what values are Na and what are not in form of a data frame with True for Na and False for not Na
+12)- unique() = Gives all the unique values in that column. `df['column'].unique()`
