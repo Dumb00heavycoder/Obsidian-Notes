@@ -9,3 +9,8 @@ previous knowledge [[00 Why pandas]],[[01 Getting Started]],[[02 Data frames and
 If only some columns in a dataframe concern you and u want to drop the indexes which has those specific columns missing, You can do that in this specific way:-
 `df.dropna(axis = 'index', how = 'any', subset = {'Last', 'Email})`
 This would drop the rows that have last name and email missing 
+
+2)- Dealing with customised missing values:-  For example you are taking a survey and people had no idea what to answer in some questions so they pass in strings like Na or missing values which are customised missing values. To deal with these values you can replace them with na values with the help of numpy
+`df.replace('NA', np.nan, inplace = True)`
+`df.replace('Missing', np.nan, inplace = True)`
+ 
