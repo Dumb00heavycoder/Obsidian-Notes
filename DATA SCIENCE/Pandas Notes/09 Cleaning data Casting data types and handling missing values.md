@@ -18,6 +18,10 @@ You can also give Na values some other values with this:-
 2)- Dealing with customised missing values:-  For example you are taking a survey and people had no idea what to answer in some questions so they pass in strings like Na or missing values which are customised missing values. To deal with these values you can replace them with na values with the help of numpy
 `df.replace('NA', np.nan, inplace = True)`
 `df.replace('Missing', np.nan, inplace = True)`
+You can also treat these right when you load ur csv
+Create a Na_value variable and put it in ur load argument in this way:-
+`na_vals = ['NA', 'Missing', 'MISSING',]`
+`df = pd.read_csv('result.csv', na_values = na_vals)`
 
 3)- Casting Datatype:- 
 You can start with `df.dtypes` attribute to get data types of all features. 
