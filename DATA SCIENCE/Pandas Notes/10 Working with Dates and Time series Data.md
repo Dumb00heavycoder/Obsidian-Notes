@@ -48,6 +48,8 @@ Data to practice on:- https://github.com/CoreyMSchafer/code_snippets/blob/master
 	    `High['2020-01-05]`
   You can plot this with matplot lib which will make this more useful
 	  `High.plot()` Will give u a plot of this
+	Now lets try resampling the data given above in week format and print out a dataframe Mean of close, Max of high, minimum of low and sum of volume:-
+	`df.resample('W').agg({'Close' : 'mean', 'High' : 'max', 'Low' : 'min', 'Volume' : 'sum'})`
 
 Practice questions:- 
 1)- Find max high of a day

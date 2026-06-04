@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA SCIENCE/Pandas Notes/10 Working with Dates and Time series Data.md",
+                "file": "DATA SCIENCE/Pandas Notes/10  Reading and Writing Data to Different Sources - Excel, JSON, SQL, Etc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 Working with Dates and Time series Data"
+              "title": "10  Reading and Writing Data to Different Sources - Excel, JSON, SQL, Etc"
             }
           }
         ]
@@ -171,8 +171,10 @@
   },
   "active": "34be602026a0e257",
   "lastOpenFiles": [
-    "DATA SCIENCE/Pandas Notes/09 Cleaning data Casting data types and handling missing values.md",
     "DATA SCIENCE/Pandas Notes/10 Working with Dates and Time series Data.md",
+    "DATA SCIENCE/Pandas Notes/10  Reading and Writing Data to Different Sources - Excel, JSON, SQL, Etc.md",
+    "DATA SCIENCE/Pandas Notes/Untitled",
+    "DATA SCIENCE/Pandas Notes/09 Cleaning data Casting data types and handling missing values.md",
     "DATA SCIENCE/Pandas Notes/08 Grouping and Aggregating- Analysing and Exploring your Data.md",
     "DATA SCIENCE/Pandas Notes/Methods.md",
     "DATA SCIENCE/Pandas Notes/07 Sorting data.md",
@@ -201,7 +203,6 @@
     "C++/Basics 1.md",
     "C++/Basics 2.md",
     "C++/CMake.md",
-    "C++/STL.md",
     "GAME DEV/Godot",
     "Pictures used/Pasted image 20260317210102.png",
     "Pictures used/Pasted image 20260316025619.png",
@@ -217,7 +218,6 @@
     "Pictures used/Pasted image 20260122221509.png",
     "Pictures used/Pasted image 20260122220819.png",
     "Untitled 6.base",
-    "Untitled 5.base",
-    "Untitled 3.base"
+    "Untitled 5.base"
   ]
 }
