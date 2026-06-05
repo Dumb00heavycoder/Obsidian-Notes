@@ -1,0 +1,2 @@
+Numpy is a multidimension array library which allows you to store Multidimensional arrays and allows you to do different operations on them. 
+Its useful in plotting, backend, math calculation, Machine learning and Data analysis 
