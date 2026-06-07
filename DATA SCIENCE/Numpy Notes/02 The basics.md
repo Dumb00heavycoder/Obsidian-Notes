@@ -1,4 +1,4 @@
-previous knowledge:- [[Introduction to Numpy]],[[The basics]]
+previous knowledge:- [[00 Introduction to Numpy]],[[02 The basics]]
 
 1)- Initialising your custom array:- 
 	`a = np.array([1,2,3])`
@@ -16,5 +16,9 @@ previous knowledge:- [[Introduction to Numpy]],[[The basics]]
 	`b.dtype`
 	How to assign the amount of space the array takes:-
 	`a = np.array([1,2,3], dtype = 'int16')`
-	`How to see the amount of bytes:-`
+	How to see the amount of bytes:-
 	`a.itemsize`
+	How to get total size:-
+	`a.size * a.itemsize`
+	a.nbytes
+	
