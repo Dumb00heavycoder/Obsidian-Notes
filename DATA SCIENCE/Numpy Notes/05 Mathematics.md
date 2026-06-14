@@ -7,4 +7,8 @@ previous knowledge:- [[00 Introduction to Numpy]], [[01 What is Numpy]], [[02 Th
 `a**2(for power)`
 You can also use increment and decrement operators:- 
 `a+= 2`
- 
+ You can also use trigno functions:-
+`np.sin(a)`
+`np.cos(a)`
+
+ 2)- Linear algebra
