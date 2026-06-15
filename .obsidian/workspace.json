@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA SCIENCE/Numpy Notes/05 Mathematics.md",
+                "file": "DATA SCIENCE/Numpy Notes/Miscellaneous.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 Mathematics"
+              "title": "Miscellaneous"
             }
           }
         ]
@@ -172,12 +172,12 @@
   "active": "8da0a990a2e794a7",
   "lastOpenFiles": [
     "DATA SCIENCE/Numpy Notes/06 Reorganising array.md",
-    "DATA SCIENCE/Numpy Notes/Miscellaneous.md",
+    "DATA SCIENCE/Numpy Notes/03 Acessing Changing specific rows, columns, elements, etc.md",
     "DATA SCIENCE/Numpy Notes/05 Mathematics.md",
+    "DATA SCIENCE/Numpy Notes/Miscellaneous.md",
     "DATA SCIENCE/Numpy Notes/04 Initialise all different types of arrays.md",
     "DATA SCIENCE/Current Roadmap.md",
     "Screenshot 2026-06-07 at 9.16.32 PM.png",
-    "DATA SCIENCE/Numpy Notes/03 Acessing Changing specific rows, columns, elements, etc.md",
     "DATA SCIENCE/Numpy Notes/01 What is Numpy.md",
     "DATA SCIENCE/Numpy Notes/00 Introduction to Numpy.md",
     "DATA SCIENCE/Numpy Notes/02 The basics.md",

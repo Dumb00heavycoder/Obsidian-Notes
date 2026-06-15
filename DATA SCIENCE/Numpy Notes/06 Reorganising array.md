@@ -1,3 +1,4 @@
+previous knowledge:- [[00 Introduction to Numpy]], [[01 What is Numpy]], [[02 The basics]], [[03 Acessing Changing specific rows, columns, elements, etc]], [[04 Initialise all different types of arrays]], [[05 Mathematics]]
 1)- Reshape method:- You can use reshape method to reshape an array and form another matrix with those elements 
 eg:- `before = np.array([[1,2,3,4],[5,6,7,8]])`
 `after = before.reshape((2,2,2))`
