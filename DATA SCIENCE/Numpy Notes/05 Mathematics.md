@@ -43,4 +43,8 @@ Reference docs (https://docs.scipy.org/doc/numpy/reference/routines.linalg.html)
 	 Etc...
 
  3)- Statistics:- 
- 
+ You can do basic min, max and sum operation an  array in numpy. u can pass in axis argument for better results:-
+	 np.max(stats, axis=1)
+	 np.min(stats, axis=1)
+	 np.sum(stats, axis=0)
+	
