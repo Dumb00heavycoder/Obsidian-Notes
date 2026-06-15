@@ -24,9 +24,21 @@ Works exactly like the last one just displays a bar graph now
 
 3)- histogram
 plt.hist can be used to display a histogram
+`import matplotlib.pyplot as plt`
+`import numpy as np`
+`x = np.array(['A','B','C','D','E'])`
+`y = np.array([3,4,5,6,9])`
+`plt.hist(x,y)`
+`plt.show()`
 
 4)- piechart
 plt.pie can be used to display a piechart
+`import matplotlib.pyplot as plt`
+`import numpy as np`
+`x = np.array(['A','B','C','D','E'])`
+`y = np.array([3,4,5,6,9])`
+`plt.pie(x,y)`
+`plt.show()`
 
 5)- Subplotting:- You can create sub plots in the visualisation area where multiple plots are present. plt.subplot() is used to get this subplot. it takes 3 parameters, first 2 parameters are number of rows and columns the plot will be divided in and 3rd parameter will tell which number of subplot is the this plot. then plt.plot(x,y) will plot the data provided above.
 eg :- 
