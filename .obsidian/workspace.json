@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA SCIENCE/Numpy Notes/05 Mathematics.md",
+                "file": "DATA SCIENCE/Numpy Notes/Miscellaneous.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 Mathematics"
+              "title": "Miscellaneous"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "8da0a990a2e794a7",
   "lastOpenFiles": [
+    "DATA SCIENCE/Numpy Notes/06 Reorganising array.md",
+    "DATA SCIENCE/Numpy Notes/Miscellaneous.md",
     "DATA SCIENCE/Numpy Notes/05 Mathematics.md",
     "DATA SCIENCE/Numpy Notes/04 Initialise all different types of arrays.md",
     "DATA SCIENCE/Current Roadmap.md",
@@ -197,8 +199,6 @@
     "DATA SCIENCE/02 Life cycle of data science project.md",
     "DATA SCIENCE/Feature engineering/01 EDA.md",
     "DATA SCIENCE/Feature engineering/00 Feature engineering.md",
-    "DATA SCIENCE/Pandas Notes/01 Getting Started.md",
-    "DATA SCIENCE/Pandas Notes/00 Why pandas.md",
     "Untitled 1.base",
     "Untitled 1.canvas",
     "Untitled.canvas",
