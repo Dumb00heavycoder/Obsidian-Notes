@@ -21,6 +21,8 @@
 Now if you wish to label These 2 graphs to show differences you can add a label argument in ur plt.plot line in this way:-
 `plt.plot(age_x, income_y, label = 'All devs')`
 `plt.plot(age_x, pyincome_y, label = 'Py devs')`
+`plt.legend()`
+The legend function at the end will display these labels as legend.
 
 4)- Format string:- 
 https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
@@ -37,3 +39,9 @@ U can see these on documentation
 
 You can make lines thicker with linewidth argument (default value of linewidth is 1).
 eg:- `plt.plot(age_x, income_y, linewidth = 3)`
+
+5)- tight_layout method:- To improve padding in the graph so it represents better on other machines ad `plt.tight_layout()` method before `plt.show()`.
+
+6)- grid method:- For better observation you can create a grid which would make ur graph more readable. eg:- `plt.grid(True)`
+
+7)- Styles:- Matplotlib has alot built in styles in it which can be used to make your graph more beautiful and presentable. You can see the list of available styles with this:- `print(plt.style.available)`. To use a style u can type:- `plt.style.use('fivethirthyeight')`. 
