@@ -45,3 +45,7 @@ eg:- `plt.plot(age_x, income_y, linewidth = 3)`
 6)- grid method:- For better observation you can create a grid which would make ur graph more readable. eg:- `plt.grid(True)`
 
 7)- Styles:- Matplotlib has alot built in styles in it which can be used to make your graph more beautiful and presentable. You can see the list of available styles with this:- `print(plt.style.available)`. To use a style u can type:- `plt.style.use('fivethirthyeight')`. 
+
+You can also use the famous xkcd comic style by simply typing `plt.xkcd()`.
+
+8)- Saving the plot through ur script:- plt.savefig(' plt.png')
