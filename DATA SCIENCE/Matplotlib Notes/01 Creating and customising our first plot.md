@@ -1,3 +1,4 @@
+previous knowledge:- [[00 Introduction to Matplotlib]]
 1)- pyplot is most commonly used for plotting in matplot lib.
 `From matplotlib import pyplot as plt` 
 
@@ -49,3 +50,5 @@ eg:- `plt.plot(age_x, income_y, linewidth = 3)`
 You can also use the famous xkcd comic style by simply typing `plt.xkcd()`.
 
 8)- Saving the plot through ur script:- plt.savefig(' plt.png')
+
+9)- Giving title:- To give title to your graph just add `plt.title('title')`
