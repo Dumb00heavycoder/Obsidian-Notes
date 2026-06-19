@@ -18,3 +18,22 @@
 `plt.plot(age_x, income_y)`
 `plt.plot(age_x, pyincome_y)`
 `plt.show()`
+Now if you wish to label These 2 graphs to show differences you can add a label argument in ur plt.plot line in this way:-
+`plt.plot(age_x, income_y, label = 'All devs')`
+`plt.plot(age_x, pyincome_y, label = 'Py devs')`
+
+4)- Format string:- 
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
+Format string is used to change colour, marker and line of the plot. One way to do it is by adding format argument in ur plt.plot line
+eg:- `plt.plot(age_x, income_y, 'b--')`
+B = blue colour
+-- = dashed line
+U can see these on documentation
+
+ Another explicit and readable way is to pass them as arguments:- 
+ eg:- `plt.plot(age_x, income_y, color = 'b',marker = '.' , linestyle = '--')`
+ You can also use hex values instead of b
+ eg:- eg:- `plt.plot(age_x, income_y, color = '#4444')`
+
+You can make lines thicker with linewidth argument (default value of linewidth is 1).
+eg:- `plt.plot(age_x, income_y, linewidth = 3)`
