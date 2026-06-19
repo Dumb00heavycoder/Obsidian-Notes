@@ -25,4 +25,4 @@ Now they will be lined up side by side.
 Just because we have now changed our x axis to x_indexes our x axis will not be like earlier and we'll have to make some changes to fix it. For that we can use ticks method in this way:- 
 plt.xticks(ticks = x_indexes, labesl = age_x) 
  This will keep x axis ticks like x_indexes  and label age_x values.
-  
+   
