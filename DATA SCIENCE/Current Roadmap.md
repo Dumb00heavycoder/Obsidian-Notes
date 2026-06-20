@@ -1,7 +1,7 @@
-Python
-Pandas 
-Numpy
-Matplotlib
+Python[x]
+Pandas [x]
+Numpy[x]
+Matplotlib[
 Seaborn
 Git/Github
 DataBases

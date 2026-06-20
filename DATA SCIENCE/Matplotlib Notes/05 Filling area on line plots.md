@@ -1,4 +1,4 @@
-
+previous knowledge:- [[00 Introduction to Matplotlib]], [[01 Creating and customising our first plot]],[[02 Bar charts and analysing data from csv]], [[03 Pie charts]], [[04 Stack plots]]
 Fills are great for making plot nice and professional and can give useful insights if u use them good. 
 It simply helps you to fill under the lines or above the line to compare one line from another. Lets take our old example again where we have earnings of types of developer. Lets compare earnings of python developers to earnings of average developers according to their ages. 
 `import pandas as pd`
