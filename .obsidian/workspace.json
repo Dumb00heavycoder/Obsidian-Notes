@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA SCIENCE/Matplotlib Notes/02 Bar charts and analysing data from csv.md",
+                "file": "DATA SCIENCE/Matplotlib Notes/03 Pie charts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Bar charts and analysing data from csv"
+              "title": "03 Pie charts"
             }
           }
         ]
@@ -173,6 +173,8 @@
   "lastOpenFiles": [
     "DATA SCIENCE/Matplotlib Notes/01 Creating and customising our first plot.md",
     "DATA SCIENCE/Matplotlib Notes/02 Bar charts and analysing data from csv.md",
+    "DATA SCIENCE/Matplotlib Notes/03 Pie charts.md",
+    "Untitled.canvas",
     "DATA SCIENCE/Matplotlib Notes/00 Introduction to Matplotlib.md",
     "DATA SCIENCE/Numpy Notes/Miscellaneous.md",
     "DATA SCIENCE/Numpy Notes/06 Reorganising array.md",
@@ -197,11 +199,8 @@
     "DATA SCIENCE/Pandas Notes/05  Updating Columns and Data in Rows.md",
     "DATA SCIENCE/Pandas Notes/04 Filtering - Using Conditionals to filer rows and columns.md",
     "DATA SCIENCE/Pandas Notes/02 Data frames and series basics.md",
-    "DATA SCIENCE/Pandas Notes/Methods.md",
-    "DATA SCIENCE/02 Life cycle of data science project.md",
     "Untitled 1.base",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "Untitled.base",
     "DATA SCIENCE/Pandas Notes/Untitled 1.base",
     "GAME DEV/Godot",

@@ -26,4 +26,38 @@ Just because we have now changed our x axis to x_indexes our x axis will not be 
 plt.xticks(ticks = x_indexes, labesl = age_x) 
  This will keep x axis ticks like x_indexes  and label age_x values.
 
-3)- Reading and working with csv
+3)- Reading and working with csv:-
+ U can read csv with pandas.
+ 
+ 4)- Horizontal bar:- 
+`plt.barh()`
+
+5)- Using counter and pandas to plot complex datas:- 
+First lets understand the counter method. Counter is a method in collections library which is used to keep the count of every element in the list. 
+eg:- 
+`from collections import Counter`
+`c = Counter(['Python', 'C++'])`
+`c`
+typing c will give u this in output:- `Counter({'Python' : 1,  'C++', 1})`
+ Now for example lets take a data set with 2 columns. RespondeID and Language used and lets try plotting a horizontal bar graph which will represent most used languages. 
+`import pandas as pd`
+`from collections import Counter`
+`from matplotlib import pyplot as plt`
+`data = pd.ready_csv('data.csv')`
+`id = data['RespondedID']`
+`lang_response = data['LanguageWorkedWith']`
+`language_counter = Counter()`
+`for response in lang_response:`
+	`language_counter.update(response.split(';')) #we have written this because in our csv programming languages were separated with ;.`
+`languages = []`
+`popularity = []`
+`for item in language_counter.most_common(15):`
+    `languages.append(item[0])`
+    `popularity.append(item[1])`
+`languages.reverse()`
+`popularity.reverse()`
+`plt.barh(languages, popularity)`
+`plt.title("Most Popular Languages")`
+`plt.xlabel("Number of People Who Use")`
+`plt.tight_layout()`
+`plt.show()`
