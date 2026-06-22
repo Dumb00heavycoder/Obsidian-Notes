@@ -34,3 +34,7 @@ cmap is used to change the colour of intensity and cbar.set_label() is used to s
 `plt.show()`
 
 But this is only useful when ur satisfaction data has values ranging from 0-100 or more as that will help actually show size variability. in 0-10 u will not see alot of size difference between the points
+
+8)- scaling with log:-
+`plt.xscale('log')`
+`plt.yscale('log')`
