@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA SCIENCE/Current Roadmap.md",
+                "file": "DATA SCIENCE/Matplotlib Notes/07 Scatter plots.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Current Roadmap"
+              "title": "07 Scatter plots"
             }
           }
         ]
@@ -171,16 +171,16 @@
   },
   "active": "8da0a990a2e794a7",
   "lastOpenFiles": [
-    "Untitled.base",
-    "DATA SCIENCE/Matplotlib Notes/01 Creating and customising our first plot.md",
-    "DATA SCIENCE/Matplotlib Notes/02 Bar charts and analysing data from csv.md",
-    "DATA SCIENCE/Matplotlib Notes/05 Filling area on line plots.md",
     "DATA SCIENCE/Matplotlib Notes/06- Histograms.md",
     "DATA SCIENCE/Matplotlib Notes/07 Scatter plots.md",
+    "DATA SCIENCE/Matplotlib Notes/02 Bar charts and analysing data from csv.md",
+    "DATA SCIENCE/Current Roadmap.md",
+    "Untitled.base",
+    "DATA SCIENCE/Matplotlib Notes/01 Creating and customising our first plot.md",
+    "DATA SCIENCE/Matplotlib Notes/05 Filling area on line plots.md",
     "DATA SCIENCE/Matplotlib Notes/03 Pie charts.md",
     "DATA SCIENCE/Matplotlib Notes/00 Introduction to Matplotlib.md",
     "DATA SCIENCE/Matplotlib Notes/04 Stack plots.md",
-    "DATA SCIENCE/Current Roadmap.md",
     "DATA SCIENCE/02 Life cycle of data science project.md",
     "DATA SCIENCE/01 SKILLS NEEDED.md",
     "DATA SCIENCE/Django Rest framework/001 (Getting started).md",
