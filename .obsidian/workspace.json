@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA SCIENCE/Matplotlib Notes/07 Scatter plots.md",
+                "file": "DATA SCIENCE/Current Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07 Scatter plots"
+              "title": "Current Roadmap"
             }
           }
         ]
@@ -171,14 +171,15 @@
   },
   "active": "8da0a990a2e794a7",
   "lastOpenFiles": [
-    "DATA SCIENCE/Matplotlib Notes/06- Histograms.md",
-    "DATA SCIENCE/Matplotlib Notes/05 Filling area on line plots.md",
-    "DATA SCIENCE/Matplotlib Notes/03 Pie charts.md",
-    "DATA SCIENCE/Matplotlib Notes/02 Bar charts and analysing data from csv.md",
+    "Untitled.base",
     "DATA SCIENCE/Matplotlib Notes/01 Creating and customising our first plot.md",
+    "DATA SCIENCE/Matplotlib Notes/02 Bar charts and analysing data from csv.md",
+    "DATA SCIENCE/Matplotlib Notes/05 Filling area on line plots.md",
+    "DATA SCIENCE/Matplotlib Notes/06- Histograms.md",
+    "DATA SCIENCE/Matplotlib Notes/07 Scatter plots.md",
+    "DATA SCIENCE/Matplotlib Notes/03 Pie charts.md",
     "DATA SCIENCE/Matplotlib Notes/00 Introduction to Matplotlib.md",
     "DATA SCIENCE/Matplotlib Notes/04 Stack plots.md",
-    "DATA SCIENCE/Matplotlib Notes/07 Scatter plots.md",
     "DATA SCIENCE/Current Roadmap.md",
     "DATA SCIENCE/02 Life cycle of data science project.md",
     "DATA SCIENCE/01 SKILLS NEEDED.md",
@@ -188,7 +189,6 @@
     "DATA SCIENCE/Feature engineering/02 Handling missing values.md",
     "DATA SCIENCE/Feature engineering/01 EDA.md",
     "DATA SCIENCE/Python Notes/Python For data science/Source and context.md",
-    "Untitled.base",
     "Untitled 1.base",
     "Untitled.canvas",
     "Special Utils/String Functions list.md",
@@ -201,7 +201,6 @@
     "DATA SCIENCE/Numpy Notes/06 Reorganising array.md",
     "DATA SCIENCE/Numpy Notes/05 Mathematics.md",
     "DATA SCIENCE/Numpy Notes/04 Initialise all different types of arrays.md",
-    "DATA SCIENCE/Numpy Notes/03 Acessing Changing specific rows, columns, elements, etc.md",
     "Pictures used/Screenshot 2026-06-07 at 9.16.32 PM.png",
     "DATA SCIENCE/Pandas Notes/Advance Pandas",
     "Untitled 1.canvas",
