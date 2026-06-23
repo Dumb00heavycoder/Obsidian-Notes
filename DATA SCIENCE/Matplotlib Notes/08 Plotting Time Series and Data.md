@@ -33,4 +33,4 @@ then add it into plt.gca argument:-
 `plt.gca().xaxis.set_major_formatter(date_format)`
 You can check other date time format codes from here- https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior
 
-6)- 
+6)- Whenever working with a time series data always make sure that its data type is in datetime otherwise it will not load dates in order. Use pandas to change the data type of date column and make sure to sort it also.
