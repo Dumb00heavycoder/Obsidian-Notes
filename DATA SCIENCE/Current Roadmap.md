@@ -1,7 +1,7 @@
 Python[x]
 Pandas [x]
 Numpy[x]
-Matplotlib[
+Matplotlib[x]
 Seaborn
 Git/Github
 DataBases
