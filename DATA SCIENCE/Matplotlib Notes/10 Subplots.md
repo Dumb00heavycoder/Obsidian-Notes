@@ -38,5 +38,15 @@ We set title only for the 1st one as it looks cleaner that way. u can do differe
 If you are making a fig with only multiple rows and 1 column then u can choose to use only 1 x axis by adding argument `sharex=True` in ur object creation line.
 
 Making multiple figures:- 
+To make multiple figures you just need to add another figure object. 
+In the above example u can just write 
+`fig1, ax1 = plt.subplots()`
+`fig2, ax2 = plt.subplots()`
+
+This will make 2 figures with two different plots
+
+Saving figures:-
+`fig1.savefig('fig1.png')`
+`fig2.savefig('fig2.png')`
 
 
