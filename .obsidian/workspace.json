@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA SCIENCE/SQL/00 Introduction.md",
+                "file": "DATA SCIENCE/SQL/03 keys and constrains.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Introduction"
+              "title": "03 keys and constrains"
             }
           }
         ]
@@ -171,8 +171,12 @@
   },
   "active": "8da0a990a2e794a7",
   "lastOpenFiles": [
-    "DATA SCIENCE/Seaborn Notes/12 Regression Plots.md",
+    "DATA SCIENCE/SQL/02 COMMANDS.md",
+    "DATA SCIENCE/SQL/01 Data structure and Table.md",
     "DATA SCIENCE/SQL/00 Introduction.md",
+    "DATA SCIENCE/SQL/03 keys and constrains.md",
+    "Screenshot 2026-06-25 at 1.16.28 AM.png",
+    "DATA SCIENCE/Seaborn Notes/12 Regression Plots.md",
     "DATA SCIENCE/Seaborn Notes/11 Facet Grid.md",
     "DATA SCIENCE/Seaborn Notes/10 Pair grid.md",
     "DATA SCIENCE/Current Roadmap.md",
@@ -203,15 +207,11 @@
     "Pictures used/Screenshot 2026-06-24 at 7.56.33 PM.png",
     "Pictures used/Screenshot 2026-06-24 at 7.51.31 PM.png",
     "Pictures used/Screenshot 2026-06-24 at 7.24.55 PM.png",
-    "Screenshot 2026-06-24 at 7.22.01 PM.png",
     "DATA SCIENCE/Seaborn Notes",
     "DATA SCIENCE/Matplotlib Notes/09 Plotting real time live data.md",
     "DATA SCIENCE/Matplotlib Notes/08 Plotting Time Series and Data.md",
     "DATA SCIENCE/Matplotlib Notes/07 Scatter plots.md",
     "DATA SCIENCE/Python Notes/Week 3.md",
-    "DATA SCIENCE/Python Notes/Week 4.md",
-    "Problems/print only odd numbers from 1-11 range.md",
-    "Problems/Find number of digits in a given number with for loop.md",
     "DATA SCIENCE/Pandas Notes/Advance Pandas",
     "Untitled 1.canvas",
     "DATA SCIENCE/Pandas Notes/Untitled 1.base",

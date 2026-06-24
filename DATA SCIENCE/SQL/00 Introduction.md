@@ -13,3 +13,8 @@ We use SQL for CRUD Operations :
  READ - To read data present in the database.
  UPDATE - Modify already inserted data.
  DELETE - Delete database, table or specific data point/tuple/row or multiple rows.
+
+SQL VS MYSQL:- SQL is a language used to perform CRUD operations in Relational DB, while MySQL is a
+RDBMS that uses SQL.
+
+An SQL query is a command or text instruction written in Structured Query Language (SQL) used to communicate with a relational database. Think of it as a formal question or direct request you send to a database to retrieve, filter, insert, update, or manipulate data.
