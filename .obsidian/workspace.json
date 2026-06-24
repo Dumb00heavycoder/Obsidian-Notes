@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA SCIENCE/Seaborn Notes/07 Categorical plots.md",
+                "file": "DATA SCIENCE/Seaborn Notes/08 Heatmaps.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07 Categorical plots"
+              "title": "08 Heatmaps"
             }
           }
         ]
@@ -171,17 +171,21 @@
   },
   "active": "8da0a990a2e794a7",
   "lastOpenFiles": [
+    "DATA SCIENCE/Seaborn Notes/07 Categorical plots.md",
+    "DATA SCIENCE/Seaborn Notes/08 Heatmaps.md",
+    "DATA SCIENCE/Seaborn Notes/06 Styling.md",
+    "DATA SCIENCE/Seaborn Notes/05 Rug plots.md",
+    "DATA SCIENCE/Seaborn Notes/04 Pair Plot.md",
+    "DATA SCIENCE/Seaborn Notes/03 KDE PLOT.md",
+    "DATA SCIENCE/Seaborn Notes/02 Joint Plot.md",
+    "DATA SCIENCE/Seaborn Notes/01 Distribution Plot.md",
+    "DATA SCIENCE/Seaborn Notes/00 Introduction.md",
+    "Screenshot 2026-06-24 at 8.30.18 PM.png",
+    "Screenshot 2026-06-24 at 8.29.17 PM.png",
+    "Screenshot 2026-06-24 at 8.25.33 PM.png",
     "Screenshot 2026-06-24 at 8.15.26 PM.png",
     "Screenshot 2026-06-24 at 7.56.33 PM.png",
-    "DATA SCIENCE/Seaborn Notes/04 Pair Plot.md",
-    "DATA SCIENCE/Seaborn Notes/05 Rug plots.md",
-    "DATA SCIENCE/Seaborn Notes/06 Styling.md",
-    "DATA SCIENCE/Seaborn Notes/07 Categorical plots.md",
     "Screenshot 2026-06-24 at 7.51.31 PM.png",
-    "DATA SCIENCE/Seaborn Notes/00 Introduction.md",
-    "DATA SCIENCE/Seaborn Notes/01 Distribution Plot.md",
-    "DATA SCIENCE/Seaborn Notes/02 Joint Plot.md",
-    "DATA SCIENCE/Seaborn Notes/03 KDE PLOT.md",
     "Screenshot 2026-06-24 at 7.24.55 PM.png",
     "Screenshot 2026-06-24 at 7.22.01 PM.png",
     "Screenshot 2026-06-23 at 10.38.39 PM.png",
@@ -207,14 +211,10 @@
     "DATA SCIENCE/Pandas Notes/04 Filtering - Using Conditionals to filer rows and columns.md",
     "Untitled.base",
     "Untitled.canvas",
-    "Pictures used/Screenshot 2026-06-20 at 7.23.21 PM.png",
-    "Pictures used/Screenshot 2026-06-20 at 7.18.51 PM.png",
-    "Pictures used/Screenshot 2026-06-07 at 9.16.32 PM.png",
     "DATA SCIENCE/Pandas Notes/Advance Pandas",
     "Untitled 1.canvas",
     "DATA SCIENCE/Pandas Notes/Untitled 1.base",
     "GAME DEV/Godot",
-    "Pictures used/Pasted image 20260317210102.png",
     "DSA",
     "C++/STL",
     "C++/OOPS",

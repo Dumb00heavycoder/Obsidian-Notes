@@ -35,3 +35,19 @@ Use when you care about:
 	Distribution shape
 	Multiple peaks/clusters
 	Comparing distributions across categories
+
+5)- Strip plot:- Strip plot shows u every single data point in the variable. 
+`sns.stripplot(x = 'day', y = 'total bill', data = tips_df)`
+![[Screenshot 2026-06-24 at 8.25.33 PM.png|389]]
+To spread it a little add `jitter = True` argument.
+You can also add hue to see difference between categories. 
+When using variables like sex in hue u can use `dodge = True` argument for separating men and women
+
+6)-  Swarm plot:- Earlier trip plot was only showing u data points. Swarm plot will show u these data points with the shape. It is great to use it with violin plots. 
+sns.swarmplot(x = 'day', y = 'total_bill', data = tips_df)
+![[Screenshot 2026-06-24 at 8.29.17 PM.png|431]]
+You can add a `color` argument to change its colour. 
+Using it with a violin plot will give u something like this :- 
+`sns.violinplot(x='day',y='total_bill',data=tips_df)`
+`sns.swarmplot(x='day',y='total_bill',data=tips_df, color='white')`
+![[Screenshot 2026-06-24 at 8.30.18 PM.png|408]]
