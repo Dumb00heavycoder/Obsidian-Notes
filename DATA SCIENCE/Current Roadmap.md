@@ -5,8 +5,9 @@ Matplotlib[x]
 Seaborn
 Git/Github
 DataBases
-tableau
 Machine learning
+tableau
+powerBI
 Tensor flow
 Scikit-Learn
 XGBoost
