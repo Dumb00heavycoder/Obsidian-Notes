@@ -165,8 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8da0a990a2e794a7",
+  "active": "3a2345b34a9ab2b2",
   "lastOpenFiles": [
+    "DATA SCIENCE/SQL",
+    "DATA SCIENCE/SQL.md",
     "DATA SCIENCE/Seaborn Notes/00 Introduction.md",
     "DATA SCIENCE/Seaborn Notes/12 Regression Plots.md",
     "DATA SCIENCE/Seaborn Notes/11 Facet Grid.md",
@@ -205,7 +207,6 @@
     "Problems/Find number of digits in a given number with for loop.md",
     "Problems/Factorial in for loop.md",
     "Problems/for loop for multiplication table.md",
-    "Problems/Add first 10 integer.md",
     "DATA SCIENCE/Pandas Notes/Advance Pandas",
     "Untitled 1.canvas",
     "DATA SCIENCE/Pandas Notes/Untitled 1.base",
