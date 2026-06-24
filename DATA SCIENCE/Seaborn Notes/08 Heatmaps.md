@@ -1,4 +1,4 @@
-previous knowledge:- previous knowledge:- [[00 Introduction]], [[01 Distribution Plot]], [[02 Joint Plot]], [[03 KDE PLOT]], [[04 Pair Plot]], [[05 Rug plots]], [[06 Styling]], [[07 Categorical plots]]
+previous knowledge:- previous knowledge:- [[DATA SCIENCE/Seaborn Notes/00 Introduction]], [[01 Distribution Plot]], [[02 Joint Plot]], [[03 KDE PLOT]], [[04 Pair Plot]], [[05 Rug plots]], [[06 Styling]], [[07 Categorical plots]]
 You can make heatmaps with matplot lib but it requires 5-6 lines to make it so we use seaborn mostly for heatmaps as its much easier. 
 A heatmap is simply a table where values are represented by colors.
 It shows numbers and intensity and is very good for time data analysis to see trends and density of data overtime.

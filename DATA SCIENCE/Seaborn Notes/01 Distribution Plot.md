@@ -1,4 +1,4 @@
-previous knowledge:- [[00 Introduction]]
+previous knowledge:- [[DATA SCIENCE/Seaborn Notes/00 Introduction]]
 
 Distribution plots provide univariate distribution for one variable. 
 

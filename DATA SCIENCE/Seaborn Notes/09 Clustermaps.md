@@ -1,4 +1,4 @@
-previous knowledge:- previous knowledge:- [[00 Introduction]], [[01 Distribution Plot]], [[02 Joint Plot]], [[03 KDE PLOT]], [[04 Pair Plot]], [[05 Rug plots]], [[06 Styling]], [[07 Categorical plots]], [[08 Heatmaps]]
+previous knowledge:- previous knowledge:- [[DATA SCIENCE/Seaborn Notes/00 Introduction]], [[01 Distribution Plot]], [[02 Joint Plot]], [[03 KDE PLOT]], [[04 Pair Plot]], [[05 Rug plots]], [[06 Styling]], [[07 Categorical plots]], [[08 Heatmaps]]
 A clustermap is basically a heatmap that automatically groups similar rows and columns together.
 Heatmap + automatic clustering = Clustermaps
 Its hard to sport patterns immediately in a heatmap.

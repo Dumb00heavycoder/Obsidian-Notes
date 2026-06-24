@@ -1,4 +1,4 @@
-previous knowledge:- previous knowledge:- [[00 Introduction]], [[01 Distribution Plot]], [[02 Joint Plot]], [[03 KDE PLOT]], [[04 Pair Plot]], [[05 Rug plots]], [[06 Styling]]
+previous knowledge:- previous knowledge:- [[DATA SCIENCE/Seaborn Notes/00 Introduction]], [[01 Distribution Plot]], [[02 Joint Plot]], [[03 KDE PLOT]], [[04 Pair Plot]], [[05 Rug plots]], [[06 Styling]]
 Categorical plots are used for categorical data and they help u do better analysis and get answers to many questions. 
 Here we will be using tips data which is an inbuilt seaborn data set. We will but it in tips_df variable.
 

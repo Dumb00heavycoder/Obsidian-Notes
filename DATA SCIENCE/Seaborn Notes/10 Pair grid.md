@@ -1,4 +1,4 @@
-previous knowledge:- previous knowledge:- [[00 Introduction]], [[01 Distribution Plot]], [[02 Joint Plot]], [[03 KDE PLOT]], [[04 Pair Plot]], [[05 Rug plots]], [[06 Styling]], [[07 Categorical plots]], [[08 Heatmaps]], [[09 Clustermaps]]
+previous knowledge:- previous knowledge:- [[DATA SCIENCE/Seaborn Notes/00 Introduction]], [[01 Distribution Plot]], [[02 Joint Plot]], [[03 KDE PLOT]], [[04 Pair Plot]], [[05 Rug plots]], [[06 Styling]], [[07 Categorical plots]], [[08 Heatmaps]], [[09 Clustermaps]]
 
 `PairGrid` is a Seaborn class used to create a matrix of subplots for visualizing pairwise relationships between variables. Unlike `pairplot()`, it allows different plot types to be mapped to the diagonal, upper triangle, and lower triangle sections of the grid.
 Pair grid is like a customisable version of pair plot. 
