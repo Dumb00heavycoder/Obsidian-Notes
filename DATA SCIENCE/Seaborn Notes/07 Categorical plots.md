@@ -1,3 +1,4 @@
+previous knowledge:- previous knowledge:- [[00 Introduction]], [[01 Distribution Plot]], [[02 Joint Plot]], [[03 KDE PLOT]], [[04 Pair Plot]], [[05 Rug plots]], [[06 Styling]]
 Categorical plots are used for categorical data and they help u do better analysis and get answers to many questions. 
 Here we will be using tips data which is an inbuilt seaborn data set. We will but it in tips_df variable.
 
@@ -16,8 +17,8 @@ sns.boxplot(x = 'sex', y = 'total_bill', data= tips_df, hue = 'sex' )
 - The box contains the (IQR) observations from 25th percentile to 75th percentile. So all the observations between Q1 and Q3 are in the box. So a large box means alot of variability and small box means less variability. 
 - In Seaborn and most modern boxplots, whiskers show the range of non-outlier data. 
 	 eg:- Suppose your data is: [10, 12, 13, 14, 15, 16, 17, 18, 20, 50]
-	 So here ur q1 is 13 and q3 is 18. So IQR = 5. Now calculate outlier boundaries 
-	 lower limit = q1 - 1.5*iqr  = 5.5 and upper limit q3 + 1.5*iqr = 25.5.
+	 So here ur q1 is 13 and q3 is 18. So $IQR = 5$. Now calculate outlier boundaries 
+	 $lower limit = q1 - 1.5*iqr  = 5.5$ and $upper limit=  q3 + 1.5*iqr = 25.5.$
 	  So whiskers usually fall outside the box but between the upper and lower outlier limit. covering every value outside the iqr. In this example being 10, 12, 18 and 20. These values fall in whiskers but value like 50 is an outlier
 	  So there is a lower whisker for values below 25th percentile and upper whisker for values above 75th percentile. 
 - The dots are outliers. 

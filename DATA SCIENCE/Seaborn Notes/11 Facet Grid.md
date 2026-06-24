@@ -1,0 +1,1 @@
+previous knowledge:- previous knowledge:- [[00 Introduction]], [[01 Distribution Plot]], [[02 Joint Plot]], [[03 KDE PLOT]], [[04 Pair Plot]], [[05 Rug plots]], [[06 Styling]], [[07 Categorical plots]], [[08 Heatmaps]], [[09 Clustermaps]], [[10 Pair grid]]

@@ -1,3 +1,4 @@
+previous knowledge:- [[10 Subplots]], [[Week 11]]
 You use Seaborn with matplot lib. Think of matplot lib as the engine and seaborn as fancy ui on top of matplotlib. Seaborn makes plotting complex graphs easier and it is very powerful to use both of them together
 1)- Importing seaborn:- 
 	`import seaborn as sns`

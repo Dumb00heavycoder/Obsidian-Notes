@@ -1,4 +1,4 @@
-
+previous knowledge:- previous knowledge:- [[00 Introduction]], [[01 Distribution Plot]], [[02 Joint Plot]], [[03 KDE PLOT]], [[04 Pair Plot]], [[05 Rug plots]]
 To study styling we must take an example. We will be using car crash built in seaborn data set to learn about styling:- 
 `crash_df = sns.load_dataset('car_crashes')`
 `sns.set_style ('white')` setting style for axis and grid. u can use darkgrid, dark, whitegrid and many more.
