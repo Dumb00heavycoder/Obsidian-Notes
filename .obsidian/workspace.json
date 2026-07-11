@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA SCIENCE/Matplotlib Notes/02 Bar charts and analysing data from csv.md",
+                "file": "DATA SCIENCE/Applied Accelerated AI/01 CPU Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Bar charts and analysing data from csv"
+              "title": "01 CPU Architecture"
             }
           }
         ]
@@ -171,13 +171,18 @@
   },
   "active": "8da0a990a2e794a7",
   "lastOpenFiles": [
+    "Screenshot 2026-07-11 at 8.11.21 PM.png",
+    "Screenshot 2026-07-11 at 8.10.56 PM.png",
+    "DATA SCIENCE/Applied Accelerated AI/00 Introduction.md",
+    "DATA SCIENCE/Applied Accelerated AI/01 CPU Architecture.md",
+    "DATA SCIENCE/Matplotlib Notes/02 Bar charts and analysing data from csv.md",
+    "DATA SCIENCE/Applied Accelerated AI",
     "DATA SCIENCE/Matplotlib Notes/03 Pie charts.md",
     "DATA SCIENCE/Matplotlib Notes/04 Stack plots.md",
     "DATA SCIENCE/Matplotlib Notes/05 Filling area on line plots.md",
     "DATA SCIENCE/Matplotlib Notes/06- Histograms.md",
     "DATA SCIENCE/Matplotlib Notes/07 Scatter plots.md",
     "DATA SCIENCE/Matplotlib Notes/08 Plotting Time Series and Data.md",
-    "DATA SCIENCE/Matplotlib Notes/02 Bar charts and analysing data from csv.md",
     "DATA SCIENCE/Matplotlib Notes/10 Subplots.md",
     "DATA SCIENCE/SQL/03 keys and constrains.md",
     "Screenshot 2026-06-25 at 7.49.57 PM.png",
@@ -200,9 +205,6 @@
     "DATA SCIENCE/Seaborn Notes/09 Clustermaps.md",
     "DATA SCIENCE/Seaborn Notes/08 Heatmaps.md",
     "DATA SCIENCE/Seaborn Notes/07 Categorical plots.md",
-    "DATA SCIENCE/Seaborn Notes/06 Styling.md",
-    "DATA SCIENCE/Seaborn Notes/05 Rug plots.md",
-    "DATA SCIENCE/Seaborn Notes/04 Pair Plot.md",
     "Pictures used/Screenshot 2026-06-24 at 9.17.03 PM.png",
     "Pictures used/Screenshot 2026-06-24 at 9.10.09 PM.png",
     "Pictures used/Screenshot 2026-06-24 at 8.30.18 PM.png",
@@ -210,14 +212,12 @@
     "Pictures used/Screenshot 2026-06-24 at 8.25.33 PM.png",
     "Pictures used/Screenshot 2026-06-24 at 8.15.26 PM.png",
     "Pictures used/Screenshot 2026-06-24 at 7.56.33 PM.png",
-    "Pictures used/Screenshot 2026-06-24 at 7.51.31 PM.png",
     "DATA SCIENCE/Seaborn Notes",
     "DATA SCIENCE/Pandas Notes/Advance Pandas",
     "Untitled 1.canvas",
     "DATA SCIENCE/Pandas Notes/Untitled 1.base",
     "GAME DEV/Godot",
     "DSA",
-    "C++/STL",
-    "C++/OOPS"
+    "C++/STL"
   ]
 }

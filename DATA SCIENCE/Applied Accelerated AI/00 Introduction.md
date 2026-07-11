@@ -1,0 +1,1 @@
+This folder will consists notes from applied accelerated ai nptel course. 
