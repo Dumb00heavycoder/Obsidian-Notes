@@ -26,7 +26,7 @@ $2^3 = 8$
 eg:- How many heads will come if we toss a coin 10 times?
 Number of success is denoted with $B(n,p)$
 
-imp formula:- P(B(n,p)= K) = $\binom{n}{k}$ $p^k (1 - P)^{(n-k)}$
+imp formula:- P(B(n,p)= K) = $\binom{n}{k}$ $p^k (1 - P)^{(n-k)}$ 
 
 4)- Geometric Distribution (P):- In Geometric distribution we try to find the number of trials it would take to get our first success. 
 eg:- In how many balls will i hit my first six?
