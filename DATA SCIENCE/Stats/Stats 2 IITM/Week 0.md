@@ -1,3 +1,6 @@
+## Common Distributions 
+The idea of a distribution is to assign probability to each of the individual outcomes in sample space.
+
 1)- Bernoulli trials:- Occurrence of a event A in a sample space is considered as a success and non occurrence is considered a failure. A Bernoulli trial is a trial where we are concerned with whether the outcome of some trial will be a success or a failure. Here we use 1 for success and 0 for failure 
 eg:- Will a toss of a coin result in head?
 $sample space = {success, failure}$
@@ -29,4 +32,12 @@ imp formula:- P(B(n,p)= K) = $\binom{n}{k}$ $p^k (1 - P)^{(n-k)}$
 eg:- In how many balls will i hit my first six?
 $P(G=n ) (1-P)^{(n-1)} P$
 
-5)- Common Distributions:-
+
+## Random variables 
+1)- Uniform random variables:- In uniform random variable all outcomes in the set T share same probability.
+x~ Uniform(t), where T is some finite set. 
+Range = Finite set T
+$PMF = Fx (T) = 1/|T|$ for all t E T
+
+2)- Bernoulli random variable:- 
+
