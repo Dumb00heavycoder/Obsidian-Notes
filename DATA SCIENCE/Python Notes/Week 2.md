@@ -1,4 +1,4 @@
-previous knowledge required:- [[Week 1]]
+previous knowledge required:- [[DATA SCIENCE/Python Notes/Week 1]]
 **More on variables, operators and expressions** 
 - Key words can not be used as variable names 
 - variable names are  ==case sensitive== 

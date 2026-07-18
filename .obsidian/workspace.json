@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA SCIENCE/Applied Accelerated AI/01 CPU Architecture.md",
+                "file": "DATA SCIENCE/Stats/Stats 2 IITM/Week 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 CPU Architecture"
+              "title": "Week 0"
             }
           }
         ]
@@ -171,10 +171,17 @@
   },
   "active": "8da0a990a2e794a7",
   "lastOpenFiles": [
+    "DATA SCIENCE/Stats/Stats 2 IITM/Week 4.md",
+    "DATA SCIENCE/Stats/Stats 2 IITM/Week 3.md",
+    "DATA SCIENCE/Stats/Stats 2 IITM/Week 2.md",
+    "DATA SCIENCE/Stats/Stats 2 IITM/Week 1.md",
+    "DATA SCIENCE/Stats/Stats 2 IITM/Week 0.md",
+    "DATA SCIENCE/Applied Accelerated AI/01 CPU Architecture.md",
+    "DATA SCIENCE/Stats/Stats 2 IITM",
+    "DATA SCIENCE/Stats",
     "Screenshot 2026-07-11 at 8.11.21 PM.png",
     "Screenshot 2026-07-11 at 8.10.56 PM.png",
     "DATA SCIENCE/Applied Accelerated AI/00 Introduction.md",
-    "DATA SCIENCE/Applied Accelerated AI/01 CPU Architecture.md",
     "DATA SCIENCE/Matplotlib Notes/02 Bar charts and analysing data from csv.md",
     "DATA SCIENCE/Applied Accelerated AI",
     "DATA SCIENCE/Matplotlib Notes/03 Pie charts.md",
@@ -198,26 +205,19 @@
     "DATA SCIENCE/01 SKILLS NEEDED.md",
     "DATA SCIENCE/SQL.md",
     "DATA SCIENCE/SQL",
-    "DATA SCIENCE/Seaborn Notes/00 Introduction.md",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled.canvas",
-    "DATA SCIENCE/Seaborn Notes/09 Clustermaps.md",
-    "DATA SCIENCE/Seaborn Notes/08 Heatmaps.md",
-    "DATA SCIENCE/Seaborn Notes/07 Categorical plots.md",
     "Pictures used/Screenshot 2026-06-24 at 9.17.03 PM.png",
     "Pictures used/Screenshot 2026-06-24 at 9.10.09 PM.png",
     "Pictures used/Screenshot 2026-06-24 at 8.30.18 PM.png",
     "Pictures used/Screenshot 2026-06-24 at 8.29.17 PM.png",
     "Pictures used/Screenshot 2026-06-24 at 8.25.33 PM.png",
     "Pictures used/Screenshot 2026-06-24 at 8.15.26 PM.png",
-    "Pictures used/Screenshot 2026-06-24 at 7.56.33 PM.png",
     "DATA SCIENCE/Seaborn Notes",
     "DATA SCIENCE/Pandas Notes/Advance Pandas",
     "Untitled 1.canvas",
     "DATA SCIENCE/Pandas Notes/Untitled 1.base",
-    "GAME DEV/Godot",
-    "DSA",
-    "C++/STL"
+    "GAME DEV/Godot"
   ]
 }

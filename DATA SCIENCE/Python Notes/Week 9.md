@@ -1,2 +1,2 @@
-previous knowledge :- [[Week 1]] [[Week 2]] [[Week 3]] [[Week 4]] [[Week 5]] [[Week 6 & 7]]
+previous knowledge :- [[DATA SCIENCE/Python Notes/Week 1]] [[DATA SCIENCE/Python Notes/Week 2]] [[DATA SCIENCE/Python Notes/Week 3]] [[DATA SCIENCE/Python Notes/Week 4]] [[Week 5]] [[Week 6 & 7]]
 [[Week 8]] 

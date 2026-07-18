@@ -1,4 +1,4 @@
-Previous knowledge required:- [[Week 1]] [[Week 2]] [[Week 3]] 
+Previous knowledge required:- [[DATA SCIENCE/Python Notes/Week 1]] [[DATA SCIENCE/Python Notes/Week 2]] [[DATA SCIENCE/Python Notes/Week 3]] 
 ***List []***
 In Python, a list is a built-in dynamic sized array (automatically grows and shrinks). We can store all types of items (including another list) in a list. A list may contain mixed type of items, this is possible because a list mainly stores references at contiguous locations and actual items maybe stored at different locations.
 
