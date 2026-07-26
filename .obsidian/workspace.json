@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Java/00 Introduction.md",
+                "file": "DSA/Java/00 Hello world program.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Introduction"
+              "title": "00 Hello world program"
             }
           }
         ]
@@ -172,7 +172,7 @@
   "active": "8da0a990a2e794a7",
   "lastOpenFiles": [
     "DSA/DSA IN JAVA Nptel Course/Week 1/00  Introduction.md",
-    "DSA/Java/00 Introduction.md",
+    "DSA/Java/00 Hello world program.md",
     "DSA/Java",
     "DSA/DSA IN JAVA Nptel Course/Week 1",
     "DSA/Shunting Yard Algorithm.md",
