@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA SCIENCE/Applied Accelerated AI/week 1/03 GPU Fundamentals and Modern Ai accelerators.md",
+                "file": "DATA SCIENCE/Applied Accelerated AI/week 1/00 Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 GPU Fundamentals and Modern Ai accelerators"
+              "title": "00 Introduction"
             }
           }
         ]
@@ -173,8 +173,12 @@
   },
   "active": "8da0a990a2e794a7",
   "lastOpenFiles": [
-    "DATA SCIENCE/Applied Accelerated AI/week 1/02 Memory Hierarchy.md",
     "DATA SCIENCE/Applied Accelerated AI/week 1/03 GPU Fundamentals and Modern Ai accelerators.md",
+    "Screenshot 2026-08-30 at 9.15.50 PM.png",
+    "Screenshot 2026-08-30 at 9.14.12 PM.png",
+    "Screenshot 2026-08-30 at 9.04.06 PM.png",
+    "Screenshot 2026-08-30 at 8.21.24 PM.png",
+    "DATA SCIENCE/Applied Accelerated AI/week 1/02 Memory Hierarchy.md",
     "DATA SCIENCE/Applied Accelerated AI/week 1/01 CPU Architecture.md",
     "Screenshot 2026-08-29 at 10.55.51 PM.png",
     "Screenshot 2026-08-29 at 10.48.49 PM.png",
@@ -183,22 +187,18 @@
     "Screenshot 2026-08-29 at 9.04.27 PM.png",
     "Pasted image 20260829205103.png",
     "Screenshot 2026-08-29 at 8.50.45 PM.png",
-    "Screenshot 2026-08-29 at 8.13.48 PM.png",
-    "Screenshot 2026-08-29 at 8.09.36 PM.png",
-    "Pasted image 20260829195721.png",
-    "Screenshot 2026-08-29 at 7.56.49 PM.png",
     "DATA SCIENCE/Applied Accelerated AI/week 1/00 Introduction.md",
     "DATA SCIENCE/Matplotlib Notes/00 Introduction to Matplotlib.md",
     "DATA SCIENCE/Matplotlib Notes/01 Creating and customising our first plot.md",
     "DATA SCIENCE/Matplotlib Notes/02 Bar charts and analysing data from csv.md",
-    "DATA SCIENCE/Pandas Notes/08 Grouping and Aggregating- Analysing and Exploring your Data.md",
-    "DATA SCIENCE/Pandas Notes/09 Cleaning data Casting data types and handling missing values.md",
-    "DATA SCIENCE/Pandas Notes/10 Working with Dates and Time series Data.md",
-    "DATA SCIENCE/Pandas Notes/11 Reading and Writing Data to Different Sources - Excel, JSON, SQL, Etc.md",
-    "DATA SCIENCE/Pandas Notes/Methods.md",
-    "DATA SCIENCE/Pandas Notes/07 Sorting data.md",
-    "DATA SCIENCE/Pandas Notes/06 Add Remove columns and rows from data frame.md",
-    "DATA SCIENCE/Pandas Notes/00 Why pandas.md",
+    "Pandas Notes/08 Grouping and Aggregating- Analysing and Exploring your Data.md",
+    "Pandas Notes/09 Cleaning data Casting data types and handling missing values.md",
+    "Pandas Notes/10 Working with Dates and Time series Data.md",
+    "Pandas Notes/11 Reading and Writing Data to Different Sources - Excel, JSON, SQL, Etc.md",
+    "Pandas Notes/Methods.md",
+    "Pandas Notes/07 Sorting data.md",
+    "Pandas Notes/06 Add Remove columns and rows from data frame.md",
+    "Pandas Notes/00 Why pandas.md",
     "DSA/Java/00 Hello world program.md",
     "DSA/DSA IN JAVA Nptel Course/Week 1/00  Introduction.md",
     "DSA/Java",
@@ -215,7 +215,6 @@
     "DATA SCIENCE/Stats/Stats 2 IITM",
     "DATA SCIENCE/Stats",
     "DATA SCIENCE/Applied Accelerated AI",
-    "DATA SCIENCE/Matplotlib Notes/03 Pie charts.md",
     "DATA SCIENCE/SQL",
     "Untitled.base",
     "Untitled 1.base",
