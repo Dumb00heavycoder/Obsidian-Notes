@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA SCIENCE/Applied Accelerated AI/week 1/02 Memory Hierarchy.md",
+                "file": "DATA SCIENCE/Applied Accelerated AI/week 1/03 GPU Fundamentals and Modern Ai accelerators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Memory Hierarchy"
+              "title": "03 GPU Fundamentals and Modern Ai accelerators"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "8da0a990a2e794a7",
   "lastOpenFiles": [
-    "DATA SCIENCE/Applied Accelerated AI/week 1/01 CPU Architecture.md",
     "DATA SCIENCE/Applied Accelerated AI/week 1/02 Memory Hierarchy.md",
+    "DATA SCIENCE/Applied Accelerated AI/week 1/03 GPU Fundamentals and Modern Ai accelerators.md",
+    "DATA SCIENCE/Applied Accelerated AI/week 1/01 CPU Architecture.md",
     "Screenshot 2026-08-29 at 10.55.51 PM.png",
     "Screenshot 2026-08-29 at 10.48.49 PM.png",
     "DATA SCIENCE/Applied Accelerated AI/week 1",
