@@ -52,7 +52,7 @@ Optimizer
   ↓
 Update weights
   ↓
-Repeat 🔄
+Repeat 
 ```
 **Adam** is one popular optimizer.
 
