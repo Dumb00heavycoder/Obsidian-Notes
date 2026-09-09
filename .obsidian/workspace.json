@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA SCIENCE/Applied Accelerated AI/week 1/04 Interconnects Pcie, Nvlink and NvSwitch.md",
+                "file": "DATA SCIENCE/Stats/Stats 2 IITM/Week 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 Interconnects Pcie, Nvlink and NvSwitch"
+              "title": "Week 1"
             }
           }
         ]
@@ -173,8 +173,15 @@
   },
   "active": "8da0a990a2e794a7",
   "lastOpenFiles": [
-    "DATA SCIENCE/Applied Accelerated AI/week 1/03 GPU Fundamentals and Modern Ai accelerators.md",
+    "DATA SCIENCE/Stats/Stats 2 IITM/Week 0.md",
+    "DATA SCIENCE/Stats/Stats 2 IITM/Week 1.md",
+    "DATA SCIENCE/Matplotlib Notes/05 Filling area on line plots.md",
+    "DATA SCIENCE/Matplotlib Notes/07 Scatter plots.md",
+    "DATA SCIENCE/Matplotlib Notes/02 Bar charts and analysing data from csv.md",
+    "DATA SCIENCE/01 SKILLS NEEDED.md",
+    "DATA SCIENCE/Current Roadmap.md",
     "DATA SCIENCE/Applied Accelerated AI/week 1/04 Interconnects Pcie, Nvlink and NvSwitch.md",
+    "DATA SCIENCE/Applied Accelerated AI/week 1/03 GPU Fundamentals and Modern Ai accelerators.md",
     "DATA SCIENCE/Applied Accelerated AI/week 1/02 Memory Hierarchy.md",
     "DATA SCIENCE/Applied Accelerated AI/week 1/01 CPU Architecture.md",
     "DATA SCIENCE/Applied Accelerated AI/week 1/00 Introduction.md",
@@ -191,7 +198,6 @@
     "Screenshot 2026-08-29 at 8.50.45 PM.png",
     "DATA SCIENCE/Matplotlib Notes/00 Introduction to Matplotlib.md",
     "DATA SCIENCE/Matplotlib Notes/01 Creating and customising our first plot.md",
-    "DATA SCIENCE/Matplotlib Notes/02 Bar charts and analysing data from csv.md",
     "Pandas Notes/08 Grouping and Aggregating- Analysing and Exploring your Data.md",
     "Pandas Notes/09 Cleaning data Casting data types and handling missing values.md",
     "Pandas Notes/10 Working with Dates and Time series Data.md",
@@ -207,12 +213,6 @@
     "DSA/Shunting Yard Algorithm.md",
     "DSA/DSA IN JAVA Nptel Course",
     "DSA/Untitled.md",
-    "DSA/Polish Notation.md",
-    "DATA SCIENCE/Stats/Stats 2 IITM/Week 1.md",
-    "DATA SCIENCE/Stats/Stats 2 IITM/Week 0.md",
-    "DATA SCIENCE/Stats/Stats 2 IITM/Week 4.md",
-    "DATA SCIENCE/Stats/Stats 2 IITM/Week 3.md",
-    "DATA SCIENCE/Stats/Stats 2 IITM/Week 2.md",
     "DATA SCIENCE/Stats/Stats 2 IITM",
     "DATA SCIENCE/Stats",
     "DATA SCIENCE/Applied Accelerated AI",

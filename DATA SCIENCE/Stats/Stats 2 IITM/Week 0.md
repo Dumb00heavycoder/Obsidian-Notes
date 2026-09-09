@@ -8,7 +8,6 @@ Let $P = P(A)$
 with $P(success)  = P$
 and 
 $P(failure)= 1-P$
-
 2)- Repeated Bernoulli trials (n):- Performing N independent single Bernoulli(p) trial is known as repeated Bernoulli trials. 
 $samplespace = 2^n$
 
