@@ -95,7 +95,7 @@ $$ \boxed{\operatorname{Var}(X)=E(X)^2-(E[X])^2} $$
 1)- $E[X+Y] = E(x)+E(y)$
 2)- $E(xy) = E(x)E(y)$
 3)- $V(x+y) = v(x) +v(y)$
-4)- $V(x-y) = v(x) + v(y)
+4)- $V(x-y) = v(x) + v(y)$
 
 | Distribution        | Expected Value | Variance          |
 | ------------------- | -------------- | ----------------- |
@@ -242,12 +242,16 @@ Why Chebyshev's Inequality is Powerful
 
 #### Markov vs Chebyshev
 
-| | Markov | Chebyshev |
-|---|---|---|
-| Gives bound on | Large values | Distance from mean |
-| Requires | $X \geq 0$ | Mean + variance |
-| Formula | $P(X\geq c)\leq\frac{E[X]}{c}$ | $P(|X-\mu|\geq k\sigma)\leq\frac{1}{k^2}$ |
-| Main use | Upper tail | Spread around mean |
-| Strength | More general | Usually tighter |
+|                | Markov                         | Chebyshev                                   |     |     |
+| -------------- | ------------------------------ | ------------------------------------------- | --- | --- |
+| Gives bound on | Large values                   | Distance from mean                          |     |     |
+| Requires       | $X \geq 0$                     | Mean + variance                             |     |     |
+| Formula        | $P(X\geq c)\leq\frac{E[X]}{c}$ | $P(\|X-\mu\|\geq k\sigma)\leq\frac{1}{k^2}$ |     |     |
+| Main use       | Upper tail                     | Spread around mean                          |     |     |
+| Strength       | More general                   | Usually tighter                             |     |     |
 
 Remember: Markov → large values. Chebyshev → values far from the mean.
+
+
+#### Practice questions:- 
+![[Screenshot 2026-09-11 at 2.57.52 AM.png|568]]
