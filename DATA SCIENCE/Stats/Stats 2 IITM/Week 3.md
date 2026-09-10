@@ -53,3 +53,25 @@ then:
 $$  
 E[X] \leq E[Y]  
 $$
+
+
+#### Zero mean Random variable:- 
+A zero mean random variable is simply a random variable that is always equal to zero.
+
+X=0with probability 1
+Therefore,
+$E[X]=0$
+More generally, for any random variable $Y$:
+$E[0 * Y]=0$
+
+It's mainly useful when understanding linearity of expectation and simplifying expressions
+
+
+### Variance 
+Variance basically talks about how much spread the values of random variable are around its mean.
+Suppose X ka mean 
+E[X]=μ
+Har value X, mean se kitni door hai:
+X−μ
+But agar hum simply deviations ka average lein, positive aur negative values cancel ho jayengi. Isliye deviation ko **square** karte hain:
+(X−μ)^2
