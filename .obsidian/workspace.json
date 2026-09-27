@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA SCIENCE/Stats/Stats 2 IITM/Week 4.md",
+                "file": "DATA SCIENCE/Machine Learning/Machine learning Technique/Week 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 4"
+              "title": "Week 1"
             }
           }
         ]
@@ -173,14 +173,25 @@
   },
   "active": "8da0a990a2e794a7",
   "lastOpenFiles": [
-    "Screenshot 2026-09-11 at 3.59.36 AM.png",
-    "DATA SCIENCE/Stats/Stats 2 IITM/Week 0.md",
-    "DATA SCIENCE/Stats/Stats 2 IITM/Revise before exam.md",
+    "DATA SCIENCE/Machine Learning/Machine Learning Foundation/Study plan for MLF.md",
+    "DATA SCIENCE/Machine Learning/Machine learning Technique/Week 1.md",
+    "DATA SCIENCE/Machine Learning/Machine learning Technique/Study plan for mlt.md",
+    "DATA SCIENCE/Business Data Management/Study plan for BDM.md",
+    "DATA SCIENCE/System commands/Study plan for system commands.md",
+    "DATA SCIENCE/Business Data Management",
+    "DATA SCIENCE/System commands",
+    "DATA SCIENCE/Machine Learning",
+    "DATA SCIENCE/Machine Learning/Machine learning Technique",
     "DATA SCIENCE/Stats/Stats 2 IITM/Week 3.md",
-    "Screenshot 2026-09-11 at 2.57.52 AM.png",
-    "DATA SCIENCE/Stats/Stats 2 IITM/Week 4.md",
+    "DATA SCIENCE/Machine Learning/Machine Learning Foundation",
+    "DATA SCIENCE/Machine learning Foundatio.md",
     "DATA SCIENCE/Stats/Stats 2 IITM/Week 2.md",
     "DATA SCIENCE/Stats/Stats 2 IITM/Week 1.md",
+    "DATA SCIENCE/Stats/Stats 2 IITM/Week 0.md",
+    "DATA SCIENCE/Stats/Stats 2 IITM/Week 4.md",
+    "Screenshot 2026-09-11 at 3.59.36 AM.png",
+    "DATA SCIENCE/Stats/Stats 2 IITM/Revise before exam.md",
+    "Screenshot 2026-09-11 at 2.57.52 AM.png",
     "DATA SCIENCE/Matplotlib Notes/05 Filling area on line plots.md",
     "DATA SCIENCE/Matplotlib Notes/07 Scatter plots.md",
     "DATA SCIENCE/Matplotlib Notes/02 Bar charts and analysing data from csv.md",
@@ -200,25 +211,14 @@
     "DATA SCIENCE/Applied Accelerated AI/week 1",
     "Pasted image 20260829210444.png",
     "Screenshot 2026-08-29 at 9.04.27 PM.png",
-    "Pasted image 20260829205103.png",
     "DATA SCIENCE/Matplotlib Notes/00 Introduction to Matplotlib.md",
     "DATA SCIENCE/Matplotlib Notes/01 Creating and customising our first plot.md",
     "Pandas Notes/08 Grouping and Aggregating- Analysing and Exploring your Data.md",
     "Pandas Notes/09 Cleaning data Casting data types and handling missing values.md",
-    "Pandas Notes/10 Working with Dates and Time series Data.md",
-    "Pandas Notes/11 Reading and Writing Data to Different Sources - Excel, JSON, SQL, Etc.md",
-    "Pandas Notes/Methods.md",
-    "Pandas Notes/07 Sorting data.md",
-    "Pandas Notes/06 Add Remove columns and rows from data frame.md",
     "DSA/Java",
     "DSA/DSA IN JAVA Nptel Course/Week 1",
     "DSA/DSA IN JAVA Nptel Course",
     "DATA SCIENCE/Stats/Stats 2 IITM",
-    "DATA SCIENCE/Stats",
-    "DATA SCIENCE/Applied Accelerated AI",
-    "DATA SCIENCE/SQL",
-    "Untitled.base",
-    "Untitled 1.base",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
