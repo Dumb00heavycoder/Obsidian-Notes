@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Week 1"
             }
+          },
+          {
+            "id": "3f92307a20cd7fac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DATA SCIENCE/Machine Learning/Machine learning Technique/Week 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,13 +186,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8da0a990a2e794a7",
+  "active": "3f92307a20cd7fac",
   "lastOpenFiles": [
-    "DATA SCIENCE/Machine Learning/Machine Learning Foundation/Study plan for MLF.md",
-    "DATA SCIENCE/Machine Learning/Machine learning Technique/Week 1.md",
+    "Screenshot 2026-10-06 at 3.43.16 AM.png",
     "DATA SCIENCE/Machine Learning/Machine learning Technique/Study plan for mlt.md",
-    "DATA SCIENCE/Business Data Management/Study plan for BDM.md",
+    "DATA SCIENCE/System commands/Week 01.md",
+    "Screenshot 2026-10-06 at 2.24.17 AM.png",
+    "Screenshot 2026-10-06 at 2.15.05 AM.png",
+    "Screenshot 2026-10-06 at 2.12.25 AM.png",
     "DATA SCIENCE/System commands/Study plan for system commands.md",
+    "Screenshot 2026-10-06 at 1.59.41 AM.png",
+    "Screenshot 2026-10-06 at 1.59.23 AM.png",
+    "Screenshot 2026-10-06 at 1.58.55 AM.png",
+    "Screenshot 2026-10-06 at 1.58.32 AM.png",
+    "Screenshot 2026-10-06 at 1.54.04 AM.png",
+    "Screenshot 2026-10-02 at 9.31.03 PM.png",
+    "DATA SCIENCE/Machine Learning/Machine Learning Foundation/Study plan for MLF.md",
+    "Untitled.md",
+    "DATA SCIENCE/Machine Learning/Machine learning Technique/Week 1.md",
+    "DATA SCIENCE/Business Data Management/Study plan for BDM.md",
     "DATA SCIENCE/Business Data Management",
     "DATA SCIENCE/System commands",
     "DATA SCIENCE/Machine Learning",
@@ -191,7 +218,6 @@
     "DATA SCIENCE/Stats/Stats 2 IITM/Week 4.md",
     "Screenshot 2026-09-11 at 3.59.36 AM.png",
     "DATA SCIENCE/Stats/Stats 2 IITM/Revise before exam.md",
-    "Screenshot 2026-09-11 at 2.57.52 AM.png",
     "DATA SCIENCE/Matplotlib Notes/05 Filling area on line plots.md",
     "DATA SCIENCE/Matplotlib Notes/07 Scatter plots.md",
     "DATA SCIENCE/Matplotlib Notes/02 Bar charts and analysing data from csv.md",
@@ -202,19 +228,8 @@
     "DATA SCIENCE/Applied Accelerated AI/week 1/02 Memory Hierarchy.md",
     "DATA SCIENCE/Applied Accelerated AI/week 1/01 CPU Architecture.md",
     "DATA SCIENCE/Applied Accelerated AI/week 1/00 Introduction.md",
-    "Screenshot 2026-08-30 at 9.15.50 PM.png",
-    "Screenshot 2026-08-30 at 9.14.12 PM.png",
-    "Screenshot 2026-08-30 at 9.04.06 PM.png",
-    "Screenshot 2026-08-30 at 8.21.24 PM.png",
-    "Screenshot 2026-08-29 at 10.55.51 PM.png",
-    "Screenshot 2026-08-29 at 10.48.49 PM.png",
     "DATA SCIENCE/Applied Accelerated AI/week 1",
-    "Pasted image 20260829210444.png",
-    "Screenshot 2026-08-29 at 9.04.27 PM.png",
     "DATA SCIENCE/Matplotlib Notes/00 Introduction to Matplotlib.md",
-    "DATA SCIENCE/Matplotlib Notes/01 Creating and customising our first plot.md",
-    "Pandas Notes/08 Grouping and Aggregating- Analysing and Exploring your Data.md",
-    "Pandas Notes/09 Cleaning data Casting data types and handling missing values.md",
     "DSA/Java",
     "DSA/DSA IN JAVA Nptel Course/Week 1",
     "DSA/DSA IN JAVA Nptel Course",

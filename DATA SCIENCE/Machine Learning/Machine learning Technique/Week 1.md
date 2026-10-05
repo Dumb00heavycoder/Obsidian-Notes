@@ -1,5 +1,6 @@
 ### Introduction to Machine learning:-
 Machine learning is a sub field of artificial intelligence concerned with design of algorithm and statistical model that allows computer to learn from and make predictions or decisions based on that data. It utilizes mathematical optimization, algorithms, and computational models to analyze and understand patterns in data and make predictions about future outcomes.
+Machine learning is data-driven. The mere presence of data is not enough, what we do with the data matters. Machine learning is the science of learning from data. In the previous problem, no learning is involved.
 
 Why machine learning:- 
 Machine Learning is used to automate tasks that would otherwise require human intelligence, to process vast amounts of data, and to make predictions or decisions with greater accuracy than traditional approaches. It also has surged in popularity in recent years. 
@@ -9,7 +10,6 @@ Machine Learning is applied in various fields such as computer vision, natural l
 
 What machine learning:-
 Machine Learning departs from traditional procedural approaches, instead it is driven by data analysis. Rather than memorizing specific examples, it seeks to generalize patterns in the data. Machine Learning is not based on magic, rather it relies on mathematical principles and algorithms.
-
 ### Broad Paradigms of Machine Learning
 1)- Supervised Learning:-
 Supervised Machine Learning is a type of machine learning where the algorithm is trained on a labeled dataset, meaning that the data includes both inputs and their corresponding outputs. The goal of supervised learning is to build a model that can accurately predict the output for new, unseen input data.
@@ -76,4 +76,13 @@ Day 4 → ₹106
 Day 5 → prediction
 ```
 The model uses the information it has seen so far and then learns from the next observation.
+Here are some types of machine learning problems:-
+![[Screenshot 2026-10-06 at 3.43.16 AM.png|461]]
 
+### Unsupervised Learning:- Representation learning
+In the topic of unsupervised learning we first study about representation learning. 
+Representation learning is a fundamental sub-field of machine learning that is concerned with acquiring meaningful and compact representations of intricate data, facilitating various tasks such as dimensionality reduction, clustering, and classification.
+Here our goal is to understand something useful about any given data set. 
+
+In this topic our running theme is 
+*Comprehension is compression* - George Chaitin
