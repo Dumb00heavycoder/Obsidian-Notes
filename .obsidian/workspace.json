@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Week 1"
             }
-          },
-          {
-            "id": "3f92307a20cd7fac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DATA SCIENCE/Machine Learning/Machine learning Technique/Week 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 1"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,21 +171,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f92307a20cd7fac",
+  "active": "8da0a990a2e794a7",
   "lastOpenFiles": [
-    "Screenshot 2026-10-06 at 3.43.16 AM.png",
+    "Screenshot 2026-10-06 at 5.54.38 PM.png",
+    "Screenshot 2026-10-06 at 5.51.51 PM.png",
+    "Screenshot 2026-10-06 at 5.46.58 PM.png",
+    "Screenshot 2026-10-06 at 5.44.33 PM.png",
+    "Screenshot 2026-10-06 at 5.43.44 PM.png",
+    "Screenshot 2026-10-06 at 5.38.30 PM.png",
+    "Screenshot 2026-10-06 at 5.36.59 PM.png",
+    "Screenshot 2026-10-06 at 5.35.20 PM.png",
+    "Screenshot 2026-10-06 at 5.35.07 PM.png",
+    "Screenshot 2026-10-06 at 5.25.19 PM.png",
+    "Screenshot 2026-10-06 at 5.12.27 PM.png",
     "DATA SCIENCE/Machine Learning/Machine learning Technique/Study plan for mlt.md",
     "DATA SCIENCE/System commands/Week 01.md",
-    "Screenshot 2026-10-06 at 2.24.17 AM.png",
-    "Screenshot 2026-10-06 at 2.15.05 AM.png",
-    "Screenshot 2026-10-06 at 2.12.25 AM.png",
     "DATA SCIENCE/System commands/Study plan for system commands.md",
-    "Screenshot 2026-10-06 at 1.59.41 AM.png",
-    "Screenshot 2026-10-06 at 1.59.23 AM.png",
-    "Screenshot 2026-10-06 at 1.58.55 AM.png",
-    "Screenshot 2026-10-06 at 1.58.32 AM.png",
-    "Screenshot 2026-10-06 at 1.54.04 AM.png",
-    "Screenshot 2026-10-02 at 9.31.03 PM.png",
     "DATA SCIENCE/Machine Learning/Machine Learning Foundation/Study plan for MLF.md",
     "Untitled.md",
     "DATA SCIENCE/Machine Learning/Machine learning Technique/Week 1.md",
@@ -216,7 +202,6 @@
     "DATA SCIENCE/Stats/Stats 2 IITM/Week 1.md",
     "DATA SCIENCE/Stats/Stats 2 IITM/Week 0.md",
     "DATA SCIENCE/Stats/Stats 2 IITM/Week 4.md",
-    "Screenshot 2026-09-11 at 3.59.36 AM.png",
     "DATA SCIENCE/Stats/Stats 2 IITM/Revise before exam.md",
     "DATA SCIENCE/Matplotlib Notes/05 Filling area on line plots.md",
     "DATA SCIENCE/Matplotlib Notes/07 Scatter plots.md",
