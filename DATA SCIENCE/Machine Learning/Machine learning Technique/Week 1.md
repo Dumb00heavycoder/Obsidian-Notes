@@ -1,4 +1,4 @@
-### Introduction to Machine learning:-
+## Introduction to Machine learning:-
 Machine learning is a sub field of artificial intelligence concerned with design of algorithm and statistical model that allows computer to learn from and make predictions or decisions based on that data. It utilizes mathematical optimization, algorithms, and computational models to analyze and understand patterns in data and make predictions about future outcomes.
 Machine learning is data-driven. The mere presence of data is not enough, what we do with the data matters. Machine learning is the science of learning from data. In the previous problem, no learning is involved.
 
@@ -10,7 +10,7 @@ Machine Learning is applied in various fields such as computer vision, natural l
 
 What machine learning:-
 Machine Learning departs from traditional procedural approaches, instead it is driven by data analysis. Rather than memorizing specific examples, it seeks to generalize patterns in the data. Machine Learning is not based on magic, rather it relies on mathematical principles and algorithms.
-### Broad Paradigms of Machine Learning
+## Broad Paradigms of Machine Learning
 1)- Supervised Learning:-
 Supervised Machine Learning is a type of machine learning where the algorithm is trained on a labeled dataset, meaning that the data includes both inputs and their corresponding outputs. The goal of supervised learning is to build a model that can accurately predict the output for new, unseen input data.
 For example, suppose we want to predict whether a student will pass.
@@ -79,8 +79,9 @@ The model uses the information it has seen so far and then learns from the next 
 Here are some types of machine learning problems:-
 ![[Screenshot 2026-10-06 at 3.43.16 AM.png|461]]
 
-### Unsupervised Learning:- Representation learning
+## Unsupervised Learning:- Representation learning
 In the topic of unsupervised learning we first study about representation learning. 
+To get a better practice of this topic make sure you write and calculate everything on a paper
 
 Representation learning is a fundamental sub-field of machine learning that is concerned with acquiring meaningful and compact representations of intricate data, facilitating various tasks such as dimensionality reduction, clustering, and classification.
 Here our goal is to understand something useful about any given data set. 
@@ -88,6 +89,7 @@ Here our goal is to understand something useful about any given data set.
 In this topic our running theme is 
 *Comprehension is compression* - George Chaitin
 Lets look at a very famous problem:-
+
 In this topic we will refer dimensions/features of every datapoint with d and the number of data points with n.
 ![[Screenshot 2026-10-06 at 5.05.30 PM.png|580]]
 In this example we compress our data set x which has 4 datapoints with 2 features. This compression helps us to store 4 numbers with 2 representation number, in total 6 number which is far better than storing 8 numbers. When data points have alot of features and we are dealing with millions of data points we can achieve almost 50% compression.
@@ -98,7 +100,7 @@ As you can see any vector along the purple line can be chosen as a representativ
 You can also see how we have compared the compressions we performed. 
 Earlier without compression we had to store d * n numbers
 but after compression representation we are storing d + n numbers
-
+### Dealing with data points which are not on the line
 Now lets look at a very interesting example:-
 ![[Screenshot 2026-10-06 at 5.12.27 PM.png|644]]
 Lets first focus on the compression which we did here. as you can see we have a line with points x1 x2 x3 and x4 on it but a data point x5 is not on the line. When we try to compress and represent the line we do get a compressed form but with such compression we are storing more numbers than we were storing without compression. here we will have to store 14 numbers in this compression and earlier we had 10 without compression. So is this compression even worth it? 
@@ -145,3 +147,46 @@ As we discussed earlier that we can pick any w1 and w2 on the line. So how about
 This gives us an advantage and makes our formula easier
 ![[Screenshot 2026-10-06 at 5.54.38 PM.png]]
 Hence C* becomes product of X^t and w multiplied into ``[w1 w2]``
+
+### Finding the best representative line
+Till now we have assumed a line in our examples but in real life we will only have data sets with data points and no line would be provided. we will have to draw the data points, draw line and calculate which line is best for representing our data. Lets see how we can do this:-
+![[Screenshot 2026-10-06 at 7.46.53 PM.png|505]]
+
+In this present example we have plotted different points and we have made a blue line and a red line for representation. now how can we decide which line is better for representation.
+As we know that there will be an reconstruction error in our representation of the line. now logically whichever line has the least reconstruction error will be the best line for representation. 
+Now lets find the line with least reconstruction error:-
+![[Screenshot 2026-10-07 at 12.19.44 AM.png|629]]
+Here we take a dataset, then we try to find the all the reconstruction errors for a line in that dataset. we take summation of all the xi reconstruction error from that line. mtlb jitne bhi x hai data set me unke respective proxy lete wkt kya kya errors ayenge uss line se jispe abhi ham calculations kar rhe hai un sabka summation lena. then we write error of xi which we studied earlier. then we take norm of this and after expanding we reach our final term. xi transpose * xi is a constant and upon minimisation because of differentiating it will become 0 so we can ignore it. 
+hence we get the final formulas 
+![[Screenshot 2026-10-07 at 12.23.38 AM.png|570]]
+
+If we further expand it we will get this result
+![[Screenshot 2026-10-07 at 12.26.35 AM.png|572]]
+
+Upon solving we reach to a point where we see that our result is $w^t C w$. 
+Where C is covariance matrix. 
+==🔴Hence hamare dataset ka jo covarience matrix hai uske jab ham eigen value nikalenge aur hame uska maximum eigen value milega. aur iss maximum eigen value ka eigen vector jo hoga wo hamara w hai for our dataset.==
+These results will only satisfy 2d conditions. 
+### Finding best representative line for 3d
+Lets see how things will change in 3d:-
+![[Screenshot 2026-10-07 at 12.52.08 AM.png|650]]
+
+We make our line here which represents our data and leaves representative errors. In case of 3d these errors might contain important data. so we need some sort of plane rather than a line. If we see carefully we can notice that these error vectors would lie on a line and this line would contain important information which we might want to extract and hence in case of 3d we develop an algorithm to extract all the information.
+![[Screenshot 2026-10-07 at 12.56.47 AM.png|539]]
+
+here we develop an algorithm where we first find our w line then we put $(x - (x^t * w)  * w )$ in place of xi and repeat the processes of finding w to extract all the information. here $(x - (x^t * w)  * w )$ is simply our error vectors. 
+
+A problem with this method is that not every data point is near our origin and any data point away from origin might cause a problem. So bringing all the data points to the centre might help us solve this problem.
+We can do this by finding mean of our data set the subtracting every data point of our data set from the mean. 
+and hence our final algorithm will look like this:-
+![[Pasted image 20261007010533.png|422]]
+
+Questions we wish to deal with further this weak:-
+![[Screenshot 2026-10-07 at 1.09.26 AM.png|411]]
+1)- How to solve MaxW =  $W^t * C* W$
+
+2)- How many times we repeat the procedure in 3d to find best representative line. 
+
+3)- Where exactly is compression happening?
+
+4)- What "representations" are we learning?
