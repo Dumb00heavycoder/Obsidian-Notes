@@ -25,7 +25,7 @@ We give the model:
 
 Here:
 - Inputs/features = hours studied, attendance
-- Output/label/target = Pass or Fail
+- Output/label/taget = Pass or Fail
 The model looks at many such examples and learns a pattern/relationship between the inputs and the known output.
 Then we give it a new student:
 Hours studied = 4  
