@@ -98,3 +98,26 @@ Practice these illustrations by writing them down in rough
 Illustration 2:- 
 
 ![[Screenshot 2026-10-26 at 6.01.31 PM.png|594]]
+
+
+### Evaluating learned models: Test data :- 
+Lets understand this topic step by step:- 
+Lets take an example that we take a data set, we give this data set to learning algorithm and it looks for patterns and creates F(x).
+Here 
+Training data :- The date which learning algorithm used to learn the patterns
+Model:- F(x)
+learning algorithm:-  Which creates model from training data set
+
+Now we know that this model will perform very well on the training data but will it give similar performances on other data sets? It might or it might not. Completely depends on the situation. This is why we dont test the model on the training data itself and we use the Test data. Test data is a data which wasn't used during the model training. 
+This is why use of test data for testing our model is very important.
+
+## Model selection: Validation data
+Here our question is that what approach should we choose to create the model. 
+This is where we use validation data. 
+Learning algorithm never picks the best model on its own. It picks the model which is best in the given collection of models. which is given by humans
+During process of selecting model. it goes through a process of looking at all the models given and choosing which would fit the most and give the least loss. only learning weights and structure of model doesnot helps to select a model. this is where validation data comes in. 
+Validation data is simply a data on which u can run these models, compare and choose the best model at the end. which would then run on test data. 
+So here we can divide out data into 3 parts:-
+Training data:- A data used tby learning algorithm to learn the parametres of model.
+Validation data:- A data on which different models are compared and best is picked
+Test data:- Final model is used on this test data to see how good the chosen model is. 
