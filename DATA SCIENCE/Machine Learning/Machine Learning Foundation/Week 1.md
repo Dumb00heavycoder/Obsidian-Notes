@@ -98,7 +98,7 @@ Practice these illustrations by writing them down in rough
 Illustration 2:- 
 
 ![[Screenshot 2026-10-26 at 6.01.31 PM.png|594]]
-
+Here we only put the sign of the result of the equation in bracket
 
 ### Evaluating learned models: Test data :- 
 Lets understand this topic step by step:- 
