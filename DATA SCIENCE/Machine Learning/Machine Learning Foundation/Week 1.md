@@ -12,4 +12,7 @@ Is it beneficial to do every task with machine learning?
 No, machine learning require vast resources and any task which can be easily done with manual labour or programming should be done with them. Ml is mostly used when we have huge amounts of data and alot of observation is needed on data to make predictions or reach at some solutions. 
 
 ## What is Data?
-Data
+Data is a collection on vectors in machine learning which contain information about the data. 
+
+## What is a model?
+A model in machine learning 
