@@ -15,4 +15,4 @@ No, machine learning require vast resources and any task which can be easily don
 Data is a collection on vectors in machine learning which contain information about the data. 
 
 ## What is a model?
-A model in machine learning 
+A model is a mathematical simplification of reality.
