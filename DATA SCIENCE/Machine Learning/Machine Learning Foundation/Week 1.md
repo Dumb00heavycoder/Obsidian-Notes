@@ -121,3 +121,46 @@ So here we can divide out data into 3 parts:-
 Training data:- A data used tby learning algorithm to learn the parametres of model.
 Validation data:- A data on which different models are compared and best is picked
 Test data:- Final model is used on this test data to see how good the chosen model is. 
+
+## Unsupervised Learning:-
+Unsupervised Machine Learning is a type of machine learning where the algorithm is trained on an unlabeled dataset, meaning that only the inputs are provided and no corresponding outputs. The goal of unsupervised learning is to uncover patterns or relationships within the data without any prior knowledge or guidance.
+At its core unsupervised learning is understanding data. it build models that compress, explain and group data. 
+There are different methods in unsupervised learning and lets learn about them:-
+### Dimensionality reduction:- 
+dimensionality reduction is a method which is used to suppress data and represent it in a much smaller form which might help use to transfer it or store it. For example you work in a soft drink company and your boss has asked to collect all the tweets about your company and tell him about those tweets. it is physically impossible to read out every tweet related to a big company in one day to your boss. so you decide on grouping it in different groups and present a small summary. Like how many tweets were complains, how many tweets were advertisements, how many tweets were memes or satire, etc. 
+To perform this we use a decoder and an encoder 
+Basics of dimensionality reduction:- 
+1)- Training data:- {x1, x2, x3, ... , xn}
+2)- xi E R 
+3)-  Encoder $f : \mathbb{R}^d \rightarrow \mathbb{R}^{d'}$
+4)- Decoder $g : \mathbb{R}^{d'} \rightarrow \mathbb{R}^d$, d'< d is a preferred
+5)- Goal : $g(f(\mathbf{x}^i)) \approx \mathbf{x}^i$, goal is to make g(x) in such a way that it helps to create the original data when we use g(x) on f(x).
+6)- Loss $= \frac{1}{n} \sum_{i=1}^n \|g(f(\mathbf{x}^i)) - \mathbf{x}^i\|^2$
+
+
+Here is a simple illustration you should go through it in a register:- 
+![[Screenshot 2026-10-29 at 1.55.46 AM.png|582]]
+
+
+### Density estimation:- 
+A density estimation model takes in several samples from a random source, and outputs a model that assigns a probability score to every possible instance.
+Basics:-
+1)- Data:- {x1, x2, x3, ... xn}
+2)- xi E R^d
+3)- Probability mapping $P : \mathbb{R}^d \rightarrow \mathbb{R}_+$ that 'sums' to one
+4)- Goal : $P(\mathbf{x})$ is large if $\mathbf{x} \in \text{Data}$, and low otherwise
+5)- Loss $= \frac{1}{n} \sum_{i=1}^n -\log (P(\mathbf{x}^i))$
+
+Here is a illustration which will help you understand this better:- 
+![[Screenshot 2026-10-29 at 2.29.15 AM.png|549]]
+![[Screenshot 2026-10-29 at 2.29.39 AM.png|565]]
+
+Practice all these illustrations and write them down in a register to get better logic and understanding of these models. 
+
+Important week 1 question to practice before exam:-
+![[Screenshot 2026-10-29 at 3.22.06 AM.png|569]]
+ find loss of pair 1 and pair 2
+ ans:-
+ loss of pair 1:- 2.95 -3.05
+ loss of pair 2:- 0.63-0.7
+![[Screenshot 2026-10-29 at 3.26.22 AM.png|700]]
