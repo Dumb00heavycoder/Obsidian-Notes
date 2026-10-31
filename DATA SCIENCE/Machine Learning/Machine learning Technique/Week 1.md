@@ -1,3 +1,6 @@
+For better intuition understanding of the topics of this week please watch:-
+https://www.youtube.com/watch?v=H99JRtDDnvk
+https://www.youtube.com/watch?v=iRbsBi5W0-c
 ## Introduction to Machine learning:-
 Machine learning is a sub field of artificial intelligence concerned with design of algorithm and statistical model that allows computer to learn from and make predictions or decisions based on that data. It utilizes mathematical optimization, algorithms, and computational models to analyze and understand patterns in data and make predictions about future outcomes.
 Machine learning is data-driven. The mere presence of data is not enough, what we do with the data matters. Machine learning is the science of learning from data. In the previous problem, no learning is involved.
@@ -107,7 +110,7 @@ Lets first focus on the compression which we did here. as you can see we have a 
 We used the 
 `{[1 0] [0 1]}` representation so we could easily represent the point x5 which is not on the line. 
 Because of this one point x5 our representation suddenly got complicated and we are not able to form a representation which would be in a compressed form. Now we decide to settle on a representation which is not perfect but can be taken as an approximate and that can only be done when x5 lies on the blue line. hence we try to take a x5 proxy point which would be the closest point on the blue line of x5. which we can also call our projection of x5 on the blue line.
-![[Screenshot 2026-10-06 at 5.25.19 PM.png|522]]
+![[Screenshot 2026-10-06 at 5.25.19 PM.png|574]]
 
 Lets find out this projection:-
 
@@ -137,7 +140,7 @@ Why did we length^2
 Now getting back to error vector
 After solving we will get these results:-
 ![[Screenshot 2026-10-06 at 5.46.58 PM.png|409]]
-Where we would notice that the numerator is inner product of x and w and denominator is length of w1 w2.
+here we would notice that the numerator is inner product of x and w and denominator is length of w1 w2.
 Hence C* can be written as inner product of w and x divided by length of w.
 Now that we have C* we can easily write X5 proxy as:-
 ![[Screenshot 2026-10-06 at 5.51.51 PM.png]]
@@ -190,3 +193,80 @@ Questions we wish to deal with further this weak:-
 3)- Where exactly is compression happening?
 
 4)- What "representations" are we learning?
+
+Lets continue exploring to answer these questions:-
+Lets take D = {x1, x2,x3, ... , xn} 
+W1 = Argmax w where |$|w||^2 = 1$  =   $W^t C W$
+
+and C = $\frac{1}{n} \sum_{i=1}^{n} x_i x_i^T$
+
+Now we know that we must find the line which best represents the error vectors/residue to extract that information. Lets call this line W2
+to find this line W2 we must replace the data in D in such a way:-
+$x1' = x1 - (x1^t w1)w1$
+$x2' = x2 - (x2^t w1)w1$
+..
+..
+$xn' = xn - (xn^t w1)w1$
+and then find W2 accordingly where
+
+W2 = argmax w where |$|w||^2 = 1$  =   $W^t C W$
+and C = $\frac{1}{n} \sum_{i=1}^{n} x_i' x_i'^T$
+
+Now lets explore the relation between W1 and W2:-
+![[Screenshot 2026-10-31 at 1.12.18 AM.png|700]]
+
+We can see in case of 2D the residues representative line will be perpendicular to the representative line of our data. 
+Hence W1 and W2 are orthogonal 
+Hence:-
+==🔴Any line which minimizes sum of errors with respect to residues must be orthogonal to W1== 
+
+Now let D = d
+and if we continue this process:-
+![[Screenshot 2026-10-31 at 1.15.01 AM.png|700]]
+We will get a set of orthonormal vectors. 
+Whats the use of this?
+Lets Analyse every residue
+##### Now lets look at the residues we will get after each round:- 
+According to the formula of finding C above we can calculate
+![[Screenshot 2026-10-31 at 1.18.57 AM.png]]
+From this we will find out W2 line which will best fit these residues
+and we will realise that $W1^T*W2=0$
+Now residue after round2:-
+![[Screenshot 2026-10-31 at 1.20.42 AM.png|570]]
+We see the first term and then we try to simplify it a little.
+In 2nd term we can clearly see $w1^t*w2$ which we know is 0.
+hence we will be left with the third term
+Hence:-
+![[Screenshot 2026-10-31 at 1.23.07 AM.png]]
+Now if you look at the last term carefully you realise that xi is a linear combination of all of these lines which include the residues lines and the very first line. 
+Hence we have expressed every point in our data set in a different basis, in a different orthonormal basis. 
+Now what have gained through this knowledge?
+==🔴We have gained that if data lies in a low dimensional linear subspace then residues become 0 much earlier than d rounds== 
+example:- 
+![[Screenshot 2026-10-31 at 1.33.35 AM.png]]
+In this example we see that D is given with n data points and xi E R^100
+hence according to our learning above we will be able to write xi.
+where w1,w2 and w3 will also belong to R^100
+hence will now store 
+$d * k + Kn$
+instead of 
+$d*n$
+Where K is the number of rounds after which residues become 0 
+![[Screenshot 2026-10-31 at 1.42.25 AM.png]]
+
+![[Screenshot 2026-10-31 at 1.43.10 AM.png]]
+
+Here our algorithm is completed.
+Another way to understand this with linear algebra:-
+
+![[Screenshot 2026-10-31 at 1.44.35 AM.png]]
+![[Screenshot 2026-10-31 at 1.45.32 AM.png]]
+This rule of thumb is for K
+![[Screenshot 2026-10-31 at 1.46.16 AM.png|633]]
+
+![[Screenshot 2026-10-31 at 1.46.36 AM.png|646]]
+One more example:-
+![[Screenshot 2026-10-31 at 1.47.18 AM.png|667]]
+This is called principal component analysis:-
+![[Screenshot 2026-10-31 at 1.47.53 AM.png]]
+
